@@ -1,0 +1,1861 @@
+{
+ "app": "quiniela-pro",
+ "concurso": 895,
+ "actualizado": "2026-11-11",
+ "cierre": "2026-11-14T21:00:00-06:00",
+ "cierre_texto": "sábado 14 de noviembre de 2026 · 21:00 hora del centro de México",
+ "costo_base_mxn": 10,
+ "juego": "Protouch",
+ "temporada": "NFL 2026",
+ "casilleros": [
+  {
+   "casillero": 1,
+   "local": "LEONES",
+   "visita": "PATRIOTAS",
+   "momio_local": 1.6452,
+   "momio_visita": 2.3,
+   "e": -0.10752688172043011,
+   "f": 0.4666666666666667,
+   "p": 0.12903225806451613,
+   "m": 0.16598528209321342,
+   "lv": 0.325,
+   "total": 0.15795480442064727,
+   "pick": "L"
+  },
+  {
+   "casillero": 2,
+   "local": "HALCONES",
+   "visita": "JEFES",
+   "momio_local": 2.54,
+   "momio_visita": 1.5405,
+   "e": -0.27419354838709675,
+   "f": -0.3,
+   "p": -0.4838709677419355,
+   "m": -0.24493310372234733,
+   "lv": -0.3266666666666667,
+   "total": -0.3215170976145812,
+   "pick": "V"
+  },
+  {
+   "casillero": 3,
+   "local": "BROWNS",
+   "visita": "TEXANOS",
+   "momio_local": 2.85,
+   "momio_visita": 1.4444,
+   "e": -0.026881720430107527,
+   "f": -0.3333333333333333,
+   "p": -0.12903225806451613,
+   "m": -0.3272962483829237,
+   "lv": -0.2833333333333333,
+   "total": -0.18069322149424805,
+   "pick": "V"
+  },
+  {
+   "casillero": 4,
+   "local": "EMPACADORES",
+   "visita": "VIKINGOS",
+   "momio_local": 1.5714,
+   "momio_visita": 2.45,
+   "e": 0.043010752688172046,
+   "f": 0.46666666666666673,
+   "p": -0.0967741935483871,
+   "m": 0.2184724689165187,
+   "lv": 0.016666666666666666,
+   "total": 0.14539370499818563,
+   "pick": "D"
+  },
+  {
+   "casillero": 5,
+   "local": "POTROS",
+   "visita": "DELFINES",
+   "momio_local": 1.5208,
+   "momio_visita": 2.6,
+   "e": -0.07526881720430108,
+   "f": -0.26666666666666666,
+   "p": -0.0967741935483871,
+   "m": 0.2618806875631951,
+   "lv": 0.1,
+   "total": -0.08294686715157051,
+   "pick": "D"
+  },
+  {
+   "casillero": 6,
+   "local": "SANTOS",
+   "visita": "PANTERAS",
+   "momio_local": 1.7692,
+   "momio_visita": 2.1,
+   "e": -0.27956989247311825,
+   "f": 0.43333333333333335,
+   "p": -0.2903225806451613,
+   "m": 0.08548707753479129,
+   "lv": -0.5516666666666666,
+   "total": -0.08337605549498706,
+   "pick": "D"
+  },
+  {
+   "casillero": 7,
+   "local": "JETS",
+   "visita": "BILLS",
+   "momio_local": 4.2,
+   "momio_visita": 1.2439,
+   "e": -0.11827956989247312,
+   "f": -0.8333333333333334,
+   "p": -0.9032258064516129,
+   "m": -0.543010752688172,
+   "lv": -0.2833333333333333,
+   "total": -0.5073655913978495,
+   "pick": "V"
+  },
+  {
+   "casillero": 8,
+   "local": "TITANES",
+   "visita": "JAGUARES",
+   "momio_local": 5.0,
+   "momio_visita": 1.1869,
+   "e": -0.44623655913978494,
+   "f": -0.46666666666666673,
+   "p": -0.7741935483870968,
+   "m": -0.6163141993957704,
+   "lv": -0.5916666666666667,
+   "total": -0.540634944612286,
+   "pick": "V"
+  },
+  {
+   "casillero": 9,
+   "local": "CARDENALES",
+   "visita": "CARNEROS",
+   "momio_local": 4.3,
+   "momio_visita": 1.2353,
+   "e": -0.3655913978494624,
+   "f": -0.4,
+   "p": -0.4838709677419355,
+   "m": -0.5536663124335812,
+   "lv": -0.8638888888888889,
+   "total": -0.46292853442726606,
+   "pick": "V"
+  },
+  {
+   "casillero": 10,
+   "local": "RAIDERS",
+   "visita": "HALC. MAR.",
+   "momio_local": 3.35,
+   "momio_visita": 1.3448,
+   "e": -0.3870967741935484,
+   "f": -0.26666666666666666,
+   "p": -0.5483870967741935,
+   "m": -0.4271024605214837,
+   "lv": -0.2611111111111111,
+   "total": -0.37461484868707684,
+   "pick": "V"
+  },
+  {
+   "casillero": 11,
+   "local": "VAQUEROS",
+   "visita": "49S",
+   "momio_local": 2.7,
+   "momio_visita": 1.4878,
+   "e": -0.46774193548387094,
+   "f": -0.1333333333333333,
+   "p": -0.6129032258064516,
+   "m": -0.289458357600466,
+   "lv": -0.13055555555555556,
+   "total": -0.3538164851589523,
+   "pick": "V"
+  },
+  {
+   "casillero": 12,
+   "local": "BENGALIES",
+   "visita": "ACEREROS",
+   "momio_local": 1.5556,
+   "momio_visita": 2.5,
+   "e": -0.15591397849462366,
+   "f": 0.09999999999999998,
+   "p": 0.0967741935483871,
+   "m": 0.23287671232876714,
+   "lv": 0.1472222222222222,
+   "total": 0.02397144891245642,
+   "pick": "D"
+  },
+  {
+   "casillero": 13,
+   "local": "CUERVOS",
+   "visita": "CARGADORES",
+   "momio_local": 1.4587,
+   "momio_visita": 2.8,
+   "e": 0.12365591397849462,
+   "f": -0.03333333333333334,
+   "p": 0.3870967741935484,
+   "m": 0.3149504523912107,
+   "lv": 0.0,
+   "total": 0.13353908910230572,
+   "pick": "D"
+  }
+ ],
+ "stats": {
+  "pxp": {
+   "49S": {
+    "pa": 156,
+    "pa_local": 91,
+    "pa_visita": 65,
+    "pf": 235,
+    "pf_local": 156,
+    "pf_visita": 79
+   },
+   "ACEREROS": {
+    "pa": 144,
+    "pa_local": 68,
+    "pa_visita": 76,
+    "pf": 180,
+    "pf_local": 111,
+    "pf_visita": 69
+   },
+   "AGUILAS": {
+    "pa": 221,
+    "pa_local": 128,
+    "pa_visita": 93,
+    "pf": 148,
+    "pf_local": 90,
+    "pf_visita": 58
+   },
+   "BENGALIES": {
+    "pa": 175,
+    "pa_local": 85,
+    "pa_visita": 90,
+    "pf": 240,
+    "pf_local": 93,
+    "pf_visita": 147
+   },
+   "BILLS": {
+    "pa": 187,
+    "pa_local": 86,
+    "pa_visita": 101,
+    "pf": 256,
+    "pf_local": 127,
+    "pf_visita": 129
+   },
+   "BRONCOS": {
+    "pa": 186,
+    "pa_local": 77,
+    "pa_visita": 109,
+    "pf": 198,
+    "pf_local": 95,
+    "pf_visita": 103
+   },
+   "BROWNS": {
+    "pa": 196,
+    "pa_local": 52,
+    "pa_visita": 144,
+    "pf": 161,
+    "pf_local": 61,
+    "pf_visita": 100
+   },
+   "BUCANEROS": {
+    "pa": 178,
+    "pa_local": 89,
+    "pa_visita": 89,
+    "pf": 202,
+    "pf_local": 84,
+    "pf_visita": 118
+   },
+   "CARDENALES": {
+    "pa": 255,
+    "pa_local": 106,
+    "pa_visita": 149,
+    "pf": 178,
+    "pf_local": 44,
+    "pf_visita": 134
+   },
+   "CARGADORES": {
+    "pa": 219,
+    "pa_local": 119,
+    "pa_visita": 100,
+    "pf": 121,
+    "pf_local": 67,
+    "pf_visita": 54
+   },
+   "CARNEROS": {
+    "pa": 181,
+    "pa_local": 97,
+    "pa_visita": 84,
+    "pf": 214,
+    "pf_local": 109,
+    "pf_visita": 105
+   },
+   "COMMANDERS": {
+    "pa": 202,
+    "pa_local": 118,
+    "pa_visita": 84,
+    "pf": 172,
+    "pf_local": 113,
+    "pf_visita": 59
+   },
+   "CUERVOS": {
+    "pa": 236,
+    "pa_local": 110,
+    "pa_visita": 126,
+    "pf": 189,
+    "pf_local": 64,
+    "pf_visita": 125
+   },
+   "DELFINES": {
+    "pa": 200,
+    "pa_local": 98,
+    "pa_visita": 102,
+    "pf": 126,
+    "pf_local": 62,
+    "pf_visita": 64
+   },
+   "EMPACADORES": {
+    "pa": 191,
+    "pa_local": 74,
+    "pa_visita": 117,
+    "pf": 216,
+    "pf_local": 95,
+    "pf_visita": 121
+   },
+   "GIGANTES": {
+    "pa": 172,
+    "pa_local": 85,
+    "pa_visita": 87,
+    "pf": 182,
+    "pf_local": 103,
+    "pf_visita": 79
+   },
+   "HALC. MAR.": {
+    "pa": 162,
+    "pa_local": 105,
+    "pa_visita": 57,
+    "pf": 202,
+    "pf_local": 126,
+    "pf_visita": 76
+   },
+   "HALCONES": {
+    "pa": 223,
+    "pa_local": 149,
+    "pa_visita": 74,
+    "pf": 188,
+    "pf_local": 95,
+    "pf_visita": 93
+   },
+   "JAGUARES": {
+    "pa": 121,
+    "pa_local": 74,
+    "pa_visita": 47,
+    "pf": 229,
+    "pf_local": 161,
+    "pf_visita": 68
+   },
+   "JEFES": {
+    "pa": 143,
+    "pa_local": 58,
+    "pa_visita": 85,
+    "pf": 202,
+    "pf_local": 121,
+    "pf_visita": 81
+   },
+   "JETS": {
+    "pa": 223,
+    "pa_local": 98,
+    "pa_visita": 125,
+    "pf": 182,
+    "pf_local": 92,
+    "pf_visita": 90
+   },
+   "LEONES": {
+    "pa": 189,
+    "pa_local": 86,
+    "pa_visita": 103,
+    "pf": 222,
+    "pf_local": 101,
+    "pf_visita": 121
+   },
+   "OSOS": {
+    "pa": 184,
+    "pa_local": 76,
+    "pa_visita": 108,
+    "pf": 241,
+    "pf_local": 110,
+    "pf_visita": 131
+   },
+   "PANTERAS": {
+    "pa": 219,
+    "pa_local": 154,
+    "pa_visita": 65,
+    "pf": 199,
+    "pf_local": 103,
+    "pf_visita": 96
+   },
+   "PATRIOTAS": {
+    "pa": 207,
+    "pa_local": 84,
+    "pa_visita": 123,
+    "pf": 211,
+    "pf_local": 118,
+    "pf_visita": 93
+   },
+   "POTROS": {
+    "pa": 249,
+    "pa_local": 111,
+    "pa_visita": 138,
+    "pf": 184,
+    "pf_local": 85,
+    "pf_visita": 99
+   },
+   "RAIDERS": {
+    "pa": 268,
+    "pa_local": 111,
+    "pa_visita": 157,
+    "pf": 238,
+    "pf_local": 105,
+    "pf_visita": 133
+   },
+   "SANTOS": {
+    "pa": 216,
+    "pa_local": 141,
+    "pa_visita": 75,
+    "pf": 185,
+    "pf_local": 97,
+    "pf_visita": 88
+   },
+   "TEXANOS": {
+    "pa": 192,
+    "pa_local": 117,
+    "pa_visita": 75,
+    "pf": 209,
+    "pf_local": 88,
+    "pf_visita": 121
+   },
+   "TITANES": {
+    "pa": 199,
+    "pa_local": 100,
+    "pa_visita": 99,
+    "pf": 144,
+    "pf_local": 57,
+    "pf_visita": 87
+   },
+   "VAQUEROS": {
+    "pa": 236,
+    "pa_local": 111,
+    "pa_visita": 125,
+    "pf": 246,
+    "pf_local": 114,
+    "pf_visita": 132
+   },
+   "VIKINGOS": {
+    "pa": 116,
+    "pa_local": 65,
+    "pa_visita": 51,
+    "pf": 146,
+    "pf_local": 76,
+    "pf_visita": 70
+   }
+  },
+  "pr": {
+   "49S": 2,
+   "ACEREROS": 14,
+   "AGUILAS": 30,
+   "BENGALIES": 11,
+   "BILLS": 1,
+   "BRONCOS": 5,
+   "BROWNS": 19,
+   "BUCANEROS": 16,
+   "CARDENALES": 24,
+   "CARGADORES": 32,
+   "CARNEROS": 9,
+   "COMMANDERS": 25,
+   "CUERVOS": 20,
+   "DELFINES": 28,
+   "EMPACADORES": 13,
+   "GIGANTES": 18,
+   "HALC. MAR.": 6,
+   "HALCONES": 22,
+   "JAGUARES": 3,
+   "JEFES": 7,
+   "JETS": 29,
+   "LEONES": 8,
+   "OSOS": 4,
+   "PANTERAS": 17,
+   "PATRIOTAS": 12,
+   "POTROS": 31,
+   "RAIDERS": 23,
+   "SANTOS": 26,
+   "TEXANOS": 15,
+   "TITANES": 27,
+   "VAQUEROS": 21,
+   "VIKINGOS": 10
+  },
+  "forma": {
+   "49S": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    "B",
+    1
+   ],
+   "ACEREROS": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    "B"
+   ],
+   "AGUILAS": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "BENGALIES": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    "B",
+    1,
+    1,
+    1
+   ],
+   "BILLS": [
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    "B",
+    1,
+    1
+   ],
+   "BRONCOS": [
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "BROWNS": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    0
+   ],
+   "BUCANEROS": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    0
+   ],
+   "CARDENALES": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "CARGADORES": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    "B",
+    0,
+    0
+   ],
+   "CARNEROS": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "COMMANDERS": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    "B",
+    1,
+    0
+   ],
+   "CUERVOS": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "DELFINES": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    "B",
+    1,
+    0,
+    0
+   ],
+   "EMPACADORES": [
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "GIGANTES": [
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    "B",
+    1
+   ],
+   "HALC. MAR.": [
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "HALCONES": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "JAGUARES": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    "B",
+    1,
+    1
+   ],
+   "JEFES": [
+    1,
+    1,
+    1,
+    1,
+    "B",
+    1,
+    0,
+    0,
+    1
+   ],
+   "JETS": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "LEONES": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    "B",
+    1,
+    1,
+    1
+   ],
+   "OSOS": [
+    1,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1
+   ],
+   "PANTERAS": [
+    0,
+    1,
+    0,
+    1,
+    "B",
+    1,
+    0,
+    0,
+    0
+   ],
+   "PATRIOTAS": [
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "POTROS": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "RAIDERS": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "SANTOS": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    "B",
+    1
+   ],
+   "TEXANOS": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    "B",
+    1
+   ],
+   "TITANES": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    "B"
+   ],
+   "VAQUEROS": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "VIKINGOS": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    "B",
+    1,
+    0,
+    0
+   ]
+  },
+  "frec": {
+   "1": {
+    "L": 1,
+    "D": 1,
+    "V": 1,
+    "n": 3
+   },
+   "2": {
+    "L": 1,
+    "D": 2,
+    "V": 0,
+    "n": 3
+   },
+   "3": {
+    "L": 0,
+    "D": 2,
+    "V": 1,
+    "n": 3
+   },
+   "4": {
+    "L": 1,
+    "D": 1,
+    "V": 1,
+    "n": 3
+   },
+   "5": {
+    "L": 1,
+    "D": 2,
+    "V": 0,
+    "n": 3
+   },
+   "6": {
+    "L": 0,
+    "D": 2,
+    "V": 1,
+    "n": 3
+   },
+   "7": {
+    "L": 1,
+    "D": 1,
+    "V": 1,
+    "n": 3
+   },
+   "8": {
+    "L": 1,
+    "D": 1,
+    "V": 1,
+    "n": 3
+   },
+   "9": {
+    "L": 2,
+    "D": 0,
+    "V": 1,
+    "n": 3
+   },
+   "10": {
+    "L": 0,
+    "D": 2,
+    "V": 1,
+    "n": 3
+   },
+   "11": {
+    "L": 1,
+    "D": 1,
+    "V": 1,
+    "n": 3
+   },
+   "12": {
+    "L": 2,
+    "D": 1,
+    "V": 0,
+    "n": 3
+   },
+   "13": {
+    "L": 0,
+    "D": 0,
+    "V": 3,
+    "n": 3
+   }
+  },
+  "oficial": [
+   "V",
+   "D",
+   "D",
+   "L",
+   "D",
+   "V",
+   "V",
+   "V",
+   "L",
+   "V",
+   "L",
+   "D",
+   "V"
+  ]
+ },
+ "lesiones": {
+  "LEONES": [
+   [
+    "D.J. Reed",
+    "CB",
+    "Hip",
+    "Questionable"
+   ],
+   [
+    "Kerby Joseph",
+    "S",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Jack Campbell",
+    "LB",
+    "Neck",
+    "IR"
+   ],
+   [
+    "David Montgomery",
+    "RB",
+    "Groin",
+    "Questionable"
+   ]
+  ],
+  "PATRIOTAS": [
+   [
+    "Rhamondre Stevenson",
+    "RB",
+    "Knee (tendon)",
+    "Questionable"
+   ],
+   [
+    "TreVeyon Henderson",
+    "RB",
+    "Illness",
+    "Questionable"
+   ],
+   [
+    "Will Campbell",
+    "OT",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Carlton Davis III",
+    "CB",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Ben Brown",
+    "C",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Kyle Dugger",
+    "S",
+    "Quadriceps",
+    "Questionable"
+   ]
+  ],
+  "HALCONES": [
+   [
+    "Zachariah Branch",
+    "WR",
+    "Hamstring",
+    "Questionable"
+   ]
+  ],
+  "JEFES": [
+   [
+    "Patrick Mahomes",
+    "QB",
+    "Elbow (right)",
+    "Questionable"
+   ],
+   [
+    "Xavier Worthy",
+    "WR",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "Jaylon Moore",
+    "OT",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Mansoor Delane",
+    "CB",
+    "Shoulder",
+    "Questionable"
+   ],
+   [
+    "Isiah Pacheco",
+    "RB",
+    "Back",
+    "IR"
+   ],
+   [
+    "Trent McDuffie",
+    "CB",
+    "Back",
+    "Questionable"
+   ],
+   [
+    "Jaylen Watson",
+    "CB",
+    "Shoulder",
+    "IR"
+   ],
+   [
+    "Gardner Minshew II",
+    "QB",
+    "Elbow",
+    "IR"
+   ]
+  ],
+  "BROWNS": [
+   [
+    "Deshaun Watson",
+    "QB",
+    "Concussion",
+    "Questionable"
+   ],
+   [
+    "Maliek Collins",
+    "DT",
+    "Elbow",
+    "Questionable"
+   ],
+   [
+    "Jeremiah Owusu-Koramoah",
+    "LB",
+    "Neck",
+    "IR"
+   ],
+   [
+    "David Njoku",
+    "TE",
+    "Fibula",
+    "IR"
+   ]
+  ],
+  "TEXANOS": [
+   [
+    "Christian Kirk",
+    "WR",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "EMPACADORES": [
+   [
+    "Josh Jacobs",
+    "RB",
+    "Finger (fracture)",
+    "Out"
+   ],
+   [
+    "Sean Rhyan",
+    "G",
+    "Ankle (high sprain)",
+    "Out"
+   ],
+   [
+    "MarShawn Lloyd",
+    "RB",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Ty'Ron Hopper",
+    "LB",
+    "Chest",
+    "Questionable"
+   ],
+   [
+    "Micah Parsons",
+    "DE",
+    "Knee",
+    "IR"
+   ],
+   [
+    "Romeo Doubs",
+    "WR",
+    "Shoulder",
+    "IR"
+   ],
+   [
+    "Malik Willis",
+    "QB",
+    "Core",
+    "IR"
+   ],
+   [
+    "Nate Hobbs",
+    "CB",
+    "Groin",
+    "IR"
+   ]
+  ],
+  "VIKINGOS": [
+   [
+    "Donovan Jackson",
+    "G",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "POTROS": [
+   [
+    "Jalen Travis",
+    "OT",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Jaylon Carlies",
+    "LB",
+    "Neck",
+    "Questionable"
+   ],
+   [
+    "Justin Walley",
+    "CB",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Mo Alie-Cox",
+    "TE",
+    "Groin",
+    "Questionable"
+   ],
+   [
+    "Alec Pierce",
+    "WR",
+    "Heel",
+    "IR"
+   ],
+   [
+    "Samson Ebukam",
+    "DE",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Braden Smith",
+    "OT",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Zaire Franklin",
+    "LB",
+    "Shin (hairline fracture)",
+    "Questionable"
+   ],
+   [
+    "Quenton Nelson",
+    "G",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Tyler Goodson",
+    "RB",
+    "Knee (ACL/MCL)",
+    "Out"
+   ],
+   [
+    "Michael Pittman Jr.",
+    "WR",
+    "Foot",
+    "IR"
+   ]
+  ],
+  "DELFINES": [
+   [
+    "Jaylen Wright",
+    "RB",
+    "Quadriceps",
+    "Questionable"
+   ],
+   [
+    "De'Von Achane",
+    "RB",
+    "Knee (ACL)",
+    "IR"
+   ],
+   [
+    "Zach Sieler",
+    "DT",
+    "Biceps",
+    "IR"
+   ]
+  ],
+  "SANTOS": [
+   [
+    "Erik McCoy",
+    "C",
+    "Biceps",
+    "Questionable"
+   ],
+   [
+    "CJ Donaldson",
+    "RB",
+    "Shoulder/Concussion",
+    "Questionable"
+   ]
+  ],
+  "PANTERAS": [
+   [
+    "Damien Lewis",
+    "G",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Will Lee III",
+    "CB",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "Jaycee Horn",
+    "CB",
+    "Quadriceps",
+    "IR"
+   ],
+   [
+    "Taylor Moton",
+    "OT",
+    "Fibula",
+    "IR"
+   ],
+   [
+    "Cade Mays",
+    "C",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Trevin Wallace",
+    "LB",
+    "Groin",
+    "Questionable"
+   ],
+   [
+    "Bobby Okereke",
+    "LB",
+    "Foot",
+    "Out"
+   ]
+  ],
+  "JETS": [
+   [
+    "Garrett Wilson",
+    "WR",
+    "Concussion",
+    "Questionable"
+   ],
+   [
+    "Nahshon Wright",
+    "CB",
+    "Back",
+    "Questionable"
+   ]
+  ],
+  "BILLS": [
+   [
+    "Dion Dawkins",
+    "OT",
+    "Ribs",
+    "Questionable"
+   ],
+   [
+    "Alec Anderson",
+    "G",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Greg Gaines",
+    "DT",
+    "Calf",
+    "Questionable"
+   ],
+   [
+    "Joshua Palmer",
+    "WR",
+    "Hamstring",
+    "IR"
+   ]
+  ],
+  "TITANES": [
+   [
+    "Tyjae Spears",
+    "RB",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Carnell Tate",
+    "WR",
+    "Shoulder",
+    "Questionable"
+   ],
+   [
+    "JC Latham",
+    "OT",
+    "Finger",
+    "Questionable"
+   ],
+   [
+    "Peter Skoronski",
+    "G",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "L'Jarius Sneed",
+    "CB",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "JAGUARES": [
+   [
+    "Anton Harrison",
+    "OT",
+    "Knee (ACL)",
+    "IR"
+   ],
+   [
+    "Eric Murray",
+    "S",
+    "Elbow",
+    "IR"
+   ],
+   [
+    "Travis Etienne Jr.",
+    "RB",
+    "Hamstring",
+    "IR"
+   ]
+  ],
+  "CARDENALES": [
+   [
+    "Bam Knight",
+    "RB",
+    "Concussion",
+    "Questionable"
+   ],
+   [
+    "Hjalte Froholdt",
+    "C",
+    "Concussion",
+    "Questionable"
+   ],
+   [
+    "Jayden Williams",
+    "OT",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Michael Wilson",
+    "WR",
+    "Neck",
+    "IR"
+   ],
+   [
+    "Jeremiyah Love",
+    "RB",
+    "Ankle",
+    "IR"
+   ],
+   [
+    "Kyler Murray",
+    "QB",
+    "Hamstring (Grade 2)",
+    "Questionable"
+   ],
+   [
+    "Akeem Davis-Gaither",
+    "LB",
+    "Knee",
+    "Questionable"
+   ]
+  ],
+  "CARNEROS": [
+   [
+    "Puka Nacua",
+    "WR",
+    "Knee (MCL/PCL)/Toe",
+    "Out"
+   ],
+   [
+    "Steve Avila",
+    "G",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "Davante Adams",
+    "WR",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Terrance Ferguson",
+    "TE",
+    "Hamstring",
+    "IR"
+   ]
+  ],
+  "RAIDERS": [
+   [
+    "Trey Zuhn III",
+    "C",
+    "Concussion",
+    "Questionable"
+   ]
+  ],
+  "HALC. MAR.": [
+   [
+    "Sam Darnold",
+    "QB",
+    "Quadriceps/Ribs",
+    "Out"
+   ],
+   [
+    "Drew Lock",
+    "QB",
+    "Oblique",
+    "Questionable"
+   ],
+   [
+    "Rashid Shaheed",
+    "WR",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Charles Cross",
+    "OT",
+    "Ankle (high sprain)",
+    "Questionable"
+   ],
+   [
+    "Leonard Williams",
+    "DT",
+    "Shoulder (stinger)",
+    "Questionable"
+   ],
+   [
+    "Uchenna Nwosu",
+    "LB",
+    "Ankle",
+    "Questionable"
+   ]
+  ],
+  "VAQUEROS": [
+   [
+    "Jake Ferguson",
+    "TE",
+    "Knee",
+    "Out"
+   ],
+   [
+    "George Pickens",
+    "WR",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "Luke Schoonmaker",
+    "TE",
+    "Groin",
+    "Questionable"
+   ],
+   [
+    "Donovan Ezeiruaku",
+    "LB",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "KaVontae Turpin",
+    "WR",
+    "Ribs",
+    "Questionable"
+   ]
+  ],
+  "49S": [
+   [
+    "Deommodore Lenoir",
+    "CB",
+    "Foot",
+    "Questionable"
+   ],
+   [
+    "Renardo Green",
+    "CB",
+    "Back",
+    "Questionable"
+   ],
+   [
+    "Ricky Pearsall",
+    "WR",
+    "Knee",
+    "IR"
+   ],
+   [
+    "Brian Robinson Jr.",
+    "RB",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Jauan Jennings",
+    "WR",
+    "Calf",
+    "Questionable"
+   ]
+  ],
+  "BENGALIES": [
+   [
+    "Andrei Iosivas",
+    "WR",
+    "Thumb",
+    "IR"
+   ],
+   [
+    "Erick All Jr.",
+    "TE",
+    "Knee (ACL)",
+    "IR"
+   ],
+   [
+    "Joseph Ossai",
+    "DE",
+    "Ankle",
+    "Questionable"
+   ]
+  ],
+  "ACEREROS": [
+   [
+    "Brandin Echols",
+    "CB",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "Joey Porter Jr.",
+    "CB",
+    "Ankle",
+    "Questionable"
+   ]
+  ],
+  "CUERVOS": [
+   [
+    "Lamar Jackson",
+    "QB",
+    "Thumb",
+    "IR"
+   ],
+   [
+    "Tyler Huntley",
+    "QB",
+    "Toe",
+    "IR"
+   ],
+   [
+    "Kyle Hamilton",
+    "S",
+    "Hip",
+    "Questionable"
+   ],
+   [
+    "Jaylinn Hawkins",
+    "S",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Nate Wiggins",
+    "CB",
+    "Stinger/Illness",
+    "Questionable"
+   ],
+   [
+    "Kyle Van Noy",
+    "LB",
+    "Calf",
+    "Questionable"
+   ]
+  ],
+  "CARGADORES": [
+   [
+    "Justin Herbert",
+    "QB",
+    "Finger (left middle)",
+    "Questionable"
+   ],
+   [
+    "Ladd McConkey",
+    "WR",
+    "Back (spasms)",
+    "Questionable"
+   ],
+   [
+    "Brenen Thompson",
+    "WR",
+    "Quadriceps",
+    "Questionable"
+   ],
+   [
+    "Isas Waxter",
+    "CB",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Derwin James Jr.",
+    "S",
+    "Hamstring",
+    "IR"
+   ]
+  ]
+ },
+ "clima": {
+  "1": {
+   "d": "No (abierto)",
+   "t": 44.5,
+   "l": 2
+  },
+  "2": {
+   "d": "Techo retráctil",
+   "t": 52.6,
+   "l": 0
+  },
+  "3": {
+   "d": "No (abierto)",
+   "t": 46.8,
+   "l": 33
+  },
+  "4": {
+   "d": "No (abierto)",
+   "t": 44.5,
+   "l": 1
+  },
+  "5": {
+   "d": "Techo retráctil",
+   "t": 49.2,
+   "l": 1
+  },
+  "6": {
+   "d": "Domo (techo fijo)",
+   "t": 63.6,
+   "l": 5
+  },
+  "7": {
+   "d": "No (abierto)",
+   "t": 52.2,
+   "l": 0
+  },
+  "8": {
+   "d": "No (abierto)",
+   "t": 52.1,
+   "l": 1
+  },
+  "9": {
+   "d": "Techo retráctil",
+   "t": 71.1,
+   "l": 4
+  },
+  "10": {
+   "d": "Domo (techo fijo)",
+   "t": 63.0,
+   "l": 1
+  },
+  "11": {
+   "d": "Techo retráctil",
+   "t": 61.4,
+   "l": 62
+  },
+  "12": {
+   "d": "No (abierto)",
+   "t": 49.0,
+   "l": 0
+  },
+  "13": {
+   "d": "No (abierto)",
+   "t": 53.2,
+   "l": 1
+  }
+ },
+ "estadios": {
+  "1": {
+   "nombre": "Allianz Arena",
+   "ciudad": "Múnich",
+   "pais": "Alemania",
+   "tipo": "Abierto"
+  },
+  "2": {
+   "nombre": "Mercedes-Benz Stadium",
+   "ciudad": "Atlanta, GA",
+   "pais": "EE. UU.",
+   "tipo": "Techo retráctil"
+  },
+  "3": {
+   "nombre": "Huntington Bank Field",
+   "ciudad": "Cleveland, OH",
+   "pais": "EE. UU.",
+   "tipo": "Abierto"
+  },
+  "4": {
+   "nombre": "Lambeau Field",
+   "ciudad": "Green Bay, WI",
+   "pais": "EE. UU.",
+   "tipo": "Abierto"
+  },
+  "5": {
+   "nombre": "Lucas Oil Stadium",
+   "ciudad": "Indianápolis, IN",
+   "pais": "EE. UU.",
+   "tipo": "Techo retráctil"
+  },
+  "6": {
+   "nombre": "Caesars Superdome",
+   "ciudad": "Nueva Orleans, LA",
+   "pais": "EE. UU.",
+   "tipo": "Domo (techo fijo)"
+  },
+  "7": {
+   "nombre": "MetLife Stadium",
+   "ciudad": "East Rutherford, NJ",
+   "pais": "EE. UU.",
+   "tipo": "Abierto"
+  },
+  "8": {
+   "nombre": "Nissan Stadium",
+   "ciudad": "Nashville, TN",
+   "pais": "EE. UU.",
+   "tipo": "Abierto"
+  },
+  "9": {
+   "nombre": "State Farm Stadium",
+   "ciudad": "Glendale, AZ",
+   "pais": "EE. UU.",
+   "tipo": "Techo retráctil"
+  },
+  "10": {
+   "nombre": "Allegiant Stadium",
+   "ciudad": "Las Vegas, NV",
+   "pais": "EE. UU.",
+   "tipo": "Domo (techo fijo)"
+  },
+  "11": {
+   "nombre": "AT&T Stadium",
+   "ciudad": "Arlington, TX",
+   "pais": "EE. UU.",
+   "tipo": "Techo retráctil"
+  },
+  "12": {
+   "nombre": "Paycor Stadium",
+   "ciudad": "Cincinnati, OH",
+   "pais": "EE. UU.",
+   "tipo": "Abierto"
+  },
+  "13": {
+   "nombre": "M&T Bank Stadium",
+   "ciudad": "Baltimore, MD",
+   "pais": "EE. UU.",
+   "tipo": "Abierto"
+  }
+ },
+ "pasados": {
+  "894": {
+   "picks": [
+    "V",
+    "V",
+    "D",
+    "L",
+    "D",
+    "V",
+    "V",
+    "V",
+    "L",
+    "D",
+    "L",
+    "L",
+    "V"
+   ],
+   "oficial": [
+    "V",
+    "D",
+    "D",
+    "L",
+    "D",
+    "V",
+    "V",
+    "V",
+    "L",
+    "V",
+    "L",
+    "D",
+    "V"
+   ]
+  }
+ },
+ "hist_fila": [
+  894,
+  "2026-11-10",
+  "VDDLDVVVLVLDV"
+ ]
+}
