@@ -1,7 +1,7 @@
 {
  "app": "quiniela-pro",
  "concurso": 895,
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "cierre": "2026-11-14T21:00:00-06:00",
  "cierre_texto": "sábado 14 de noviembre de 2026 · 21:00 hora del centro de México",
  "costo_base_mxn": 10,
@@ -60,9 +60,9 @@
    "f": 0.46666666666666673,
    "p": -0.0967741935483871,
    "m": 0.2184724689165187,
-   "lv": 0.016666666666666666,
-   "total": 0.14539370499818563,
-   "pick": "D"
+   "lv": 0.16166666666666665,
+   "total": 0.15989370499818562,
+   "pick": "L"
   },
   {
    "casillero": 5,
@@ -102,8 +102,8 @@
    "f": -0.8333333333333334,
    "p": -0.9032258064516129,
    "m": -0.543010752688172,
-   "lv": -0.2833333333333333,
-   "total": -0.5073655913978495,
+   "lv": -0.1722222222222222,
+   "total": -0.49625448028673835,
    "pick": "V"
   },
   {
@@ -227,11 +227,11 @@
    },
    "BILLS": {
     "pa": 187,
-    "pa_local": 86,
-    "pa_visita": 101,
+    "pa_local": 92,
+    "pa_visita": 95,
     "pf": 256,
-    "pf_local": 127,
-    "pf_visita": 129
+    "pf_local": 150,
+    "pf_visita": 106
    },
    "BRONCOS": {
     "pa": 186,
@@ -443,11 +443,11 @@
    },
    "VIKINGOS": {
     "pa": 116,
-    "pa_local": 65,
-    "pa_visita": 51,
+    "pa_local": 42,
+    "pa_visita": 74,
     "pf": 146,
-    "pf_local": 76,
-    "pf_visita": 70
+    "pf_local": 70,
+    "pf_visita": 76
    }
   },
   "pr": {
@@ -1852,10 +1852,5 @@
     "V"
    ]
   }
- },
- "hist_fila": [
-  894,
-  "2026-11-10",
-  "VDDLDVVVLVLDV"
- ]
+ }
 }
