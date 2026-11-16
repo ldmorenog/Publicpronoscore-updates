@@ -1,7 +1,7 @@
 {
  "app": "quiniela-pro",
  "concurso": 895,
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-16",
  "cierre": "2026-11-14T21:00:00-06:00",
  "cierre_texto": "sábado 14 de noviembre de 2026 · 21:00 hora del centro de México",
  "costo_base_mxn": 10,
@@ -955,9 +955,15 @@
     "IR"
    ],
    [
-    "David Montgomery",
+    "Isiah Pacheco",
     "RB",
-    "Groin",
+    "Back",
+    "IR"
+   ],
+   [
+    "Cade Mays",
+    "C",
+    "Ankle",
     "Questionable"
    ]
   ],
@@ -993,10 +999,10 @@
     "Questionable"
    ],
    [
-    "Kyle Dugger",
-    "S",
-    "Quadriceps",
-    "Questionable"
+    "Romeo Doubs",
+    "WR",
+    "Shoulder",
+    "IR"
    ]
   ],
   "HALCONES": [
@@ -1005,6 +1011,18 @@
     "WR",
     "Hamstring",
     "Questionable"
+   ],
+   [
+    "Samson Ebukam",
+    "DE",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Brian Robinson Jr.",
+    "RB",
+    "Hamstring",
+    "IR"
    ]
   ],
   "JEFES": [
@@ -1033,27 +1051,9 @@
     "Questionable"
    ],
    [
-    "Isiah Pacheco",
-    "RB",
-    "Back",
-    "IR"
-   ],
-   [
-    "Trent McDuffie",
+    "L'Jarius Sneed",
     "CB",
-    "Back",
-    "Questionable"
-   ],
-   [
-    "Jaylen Watson",
-    "CB",
-    "Shoulder",
-    "IR"
-   ],
-   [
-    "Gardner Minshew II",
-    "QB",
-    "Elbow",
+    "Knee",
     "IR"
    ]
   ],
@@ -1075,20 +1075,20 @@
     "LB",
     "Neck",
     "IR"
-   ],
-   [
-    "David Njoku",
-    "TE",
-    "Fibula",
-    "IR"
    ]
   ],
   "TEXANOS": [
    [
-    "Christian Kirk",
-    "WR",
-    "Knee",
-    "IR"
+    "David Montgomery",
+    "RB",
+    "Groin",
+    "Questionable"
+   ],
+   [
+    "Braden Smith",
+    "OT",
+    "Ankle",
+    "Questionable"
    ]
   ],
   "EMPACADORES": [
@@ -1123,22 +1123,10 @@
     "IR"
    ],
    [
-    "Romeo Doubs",
-    "WR",
-    "Shoulder",
-    "IR"
-   ],
-   [
-    "Malik Willis",
-    "QB",
-    "Core",
-    "IR"
-   ],
-   [
-    "Nate Hobbs",
-    "CB",
-    "Groin",
-    "IR"
+    "Zaire Franklin",
+    "LB",
+    "Shin (hairline fracture)",
+    "Questionable"
    ]
   ],
   "VIKINGOS": [
@@ -1147,6 +1135,24 @@
     "G",
     "Knee",
     "IR"
+   ],
+   [
+    "Kyler Murray",
+    "QB",
+    "Hamstring (Grade 2)",
+    "Questionable"
+   ],
+   [
+    "Jauan Jennings",
+    "WR",
+    "Calf",
+    "Questionable"
+   ],
+   [
+    "Kyle Van Noy",
+    "LB",
+    "Calf",
+    "Questionable"
    ]
   ],
   "POTROS": [
@@ -1181,40 +1187,10 @@
     "IR"
    ],
    [
-    "Samson Ebukam",
-    "DE",
-    "Hamstring",
-    "IR"
-   ],
-   [
-    "Braden Smith",
-    "OT",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Zaire Franklin",
+    "Akeem Davis-Gaither",
     "LB",
-    "Shin (hairline fracture)",
-    "Questionable"
-   ],
-   [
-    "Quenton Nelson",
-    "G",
     "Knee",
     "Questionable"
-   ],
-   [
-    "Tyler Goodson",
-    "RB",
-    "Knee (ACL/MCL)",
-    "Out"
-   ],
-   [
-    "Michael Pittman Jr.",
-    "WR",
-    "Foot",
-    "IR"
    ]
   ],
   "DELFINES": [
@@ -1235,6 +1211,12 @@
     "DT",
     "Biceps",
     "IR"
+   ],
+   [
+    "Malik Willis",
+    "QB",
+    "Core",
+    "IR"
    ]
   ],
   "SANTOS": [
@@ -1249,6 +1231,12 @@
     "RB",
     "Shoulder/Concussion",
     "Questionable"
+   ],
+   [
+    "Travis Etienne Jr.",
+    "RB",
+    "Hamstring",
+    "IR"
    ]
   ],
   "PANTERAS": [
@@ -1277,18 +1265,6 @@
     "IR"
    ],
    [
-    "Cade Mays",
-    "C",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Trevin Wallace",
-    "LB",
-    "Groin",
-    "Questionable"
-   ],
-   [
     "Bobby Okereke",
     "LB",
     "Foot",
@@ -1306,6 +1282,18 @@
     "Nahshon Wright",
     "CB",
     "Back",
+    "Questionable"
+   ],
+   [
+    "Trevin Wallace",
+    "LB",
+    "Groin",
+    "Questionable"
+   ],
+   [
+    "Joseph Ossai",
+    "DE",
+    "Ankle",
     "Questionable"
    ]
   ],
@@ -1359,12 +1347,6 @@
     "G",
     "Hamstring",
     "Questionable"
-   ],
-   [
-    "L'Jarius Sneed",
-    "CB",
-    "Knee",
-    "IR"
    ]
   ],
   "JAGUARES": [
@@ -1378,12 +1360,6 @@
     "Eric Murray",
     "S",
     "Elbow",
-    "IR"
-   ],
-   [
-    "Travis Etienne Jr.",
-    "RB",
-    "Hamstring",
     "IR"
    ]
   ],
@@ -1419,16 +1395,10 @@
     "IR"
    ],
    [
-    "Kyler Murray",
+    "Gardner Minshew II",
     "QB",
-    "Hamstring (Grade 2)",
-    "Questionable"
-   ],
-   [
-    "Akeem Davis-Gaither",
-    "LB",
-    "Knee",
-    "Questionable"
+    "Elbow",
+    "IR"
    ]
   ],
   "CARNEROS": [
@@ -1454,6 +1424,18 @@
     "Terrance Ferguson",
     "TE",
     "Hamstring",
+    "IR"
+   ],
+   [
+    "Trent McDuffie",
+    "CB",
+    "Back",
+    "Questionable"
+   ],
+   [
+    "Jaylen Watson",
+    "CB",
+    "Shoulder",
     "IR"
    ]
   ],
@@ -1501,6 +1483,12 @@
     "LB",
     "Ankle",
     "Questionable"
+   ],
+   [
+    "Quenton Nelson",
+    "G",
+    "Knee",
+    "Questionable"
    ]
   ],
   "VAQUEROS": [
@@ -1533,6 +1521,18 @@
     "WR",
     "Ribs",
     "Questionable"
+   ],
+   [
+    "Tyler Goodson",
+    "RB",
+    "Knee (ACL/MCL)",
+    "Out"
+   ],
+   [
+    "Joey Porter Jr.",
+    "CB",
+    "Ankle",
+    "Questionable"
    ]
   ],
   "49S": [
@@ -1555,16 +1555,16 @@
     "IR"
    ],
    [
-    "Brian Robinson Jr.",
-    "RB",
-    "Hamstring",
+    "Christian Kirk",
+    "WR",
+    "Knee",
     "IR"
    ],
    [
-    "Jauan Jennings",
-    "WR",
-    "Calf",
-    "Questionable"
+    "Nate Hobbs",
+    "CB",
+    "Groin",
+    "IR"
    ]
   ],
   "BENGALIES": [
@@ -1581,9 +1581,9 @@
     "IR"
    ],
    [
-    "Joseph Ossai",
-    "DE",
-    "Ankle",
+    "Kyle Dugger",
+    "S",
+    "Quadriceps",
     "Questionable"
    ]
   ],
@@ -1595,10 +1595,10 @@
     "Questionable"
    ],
    [
-    "Joey Porter Jr.",
-    "CB",
-    "Ankle",
-    "Questionable"
+    "Michael Pittman Jr.",
+    "WR",
+    "Foot",
+    "IR"
    ]
   ],
   "CUERVOS": [
@@ -1631,12 +1631,6 @@
     "CB",
     "Stinger/Illness",
     "Questionable"
-   ],
-   [
-    "Kyle Van Noy",
-    "LB",
-    "Calf",
-    "Questionable"
    ]
   ],
   "CARGADORES": [
@@ -1668,6 +1662,12 @@
     "Derwin James Jr.",
     "S",
     "Hamstring",
+    "IR"
+   ],
+   [
+    "David Njoku",
+    "TE",
+    "Fibula",
     "IR"
    ]
   ]
