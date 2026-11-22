@@ -1,7 +1,7 @@
 {
  "app": "quiniela-pro",
  "concurso": 896,
- "actualizado": "2026-11-18",
+ "actualizado": "2026-11-22",
  "cierre": "2026-11-21T13:00:00-06:00",
  "cierre_texto": "sábado 21 de noviembre de 2026 · 13:00 hora del centro de México",
  "costo_base_mxn": 10,
@@ -3141,5 +3141,6 @@
  "protouch_inicial": {
   "local": "CARGADORES",
   "visita": "JETS"
- }
+ },
+ "primer_partido": "2026-11-21T14:30:00-06:00"
 }
