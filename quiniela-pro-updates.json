@@ -1,7 +1,7 @@
 {
  "app": "quiniela-pro",
  "concurso": 896,
- "actualizado": "2026-11-22",
+ "actualizado": "2026-11-25",
  "cierre": "2026-11-21T13:00:00-06:00",
  "cierre_texto": "sábado 21 de noviembre de 2026 · 13:00 hora del centro de México",
  "costo_base_mxn": 10,
@@ -1914,12 +1914,44 @@
     "L",
     "D"
    ]
+  },
+  "896": {
+   "picks": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "V",
+    "D",
+    "V",
+    "L",
+    "L",
+    "V",
+    "L",
+    "V",
+    "D"
+   ],
+   "oficial": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "D",
+    "D",
+    "D",
+    "L",
+    "L",
+    "D",
+    "L",
+    "D",
+    "V"
+   ]
   }
  },
  "hist_fila": [
-  895,
-  "2026-11-17",
-  "LVDVDDVVVVDLD"
+  896,
+  "2026-11-24",
+  "DLLLDDDLLDLDV"
  ],
  "historial_modelo": [
   {
@@ -2155,6 +2187,65 @@
     {
      "local": "CUERVOS",
      "visita": "CARGADORES"
+    }
+   ]
+  },
+  {
+   "concurso": 896,
+   "picks": "DLLLVDVLLVLVD",
+   "oficial": "DLLLDDDLLDLDV",
+   "equipos": [
+    {
+     "local": "PANTERAS",
+     "visita": "CUERVOS"
+    },
+    {
+     "local": "OSOS",
+     "visita": "SANTOS"
+    },
+    {
+     "local": "VAQUEROS",
+     "visita": "TITANES"
+    },
+    {
+     "local": "LEONES",
+     "visita": "BUCANEROS"
+    },
+    {
+     "local": "AGUILAS",
+     "visita": "ACEREROS"
+    },
+    {
+     "local": "CARGADORES",
+     "visita": "JETS"
+    },
+    {
+     "local": "GIGANTES",
+     "visita": "JAGUARES"
+    },
+    {
+     "local": "BRONCOS",
+     "visita": "RAIDERS"
+    },
+    {
+     "local": "49S",
+     "visita": "VIKINGOS"
+    },
+    {
+     "local": "COMMANDERS",
+     "visita": "BENGALIES"
+    },
+    {
+     "local": "Tennessee",
+     "visita": "LSU"
+    },
+    {
+     "local": "San José St",
+     "visita": "UNLV"
+    },
+    {
+     "local": "California",
+     "visita": "Stanford"
     }
    ]
   }
