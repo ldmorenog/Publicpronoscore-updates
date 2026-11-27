@@ -1,7 +1,7 @@
 {
  "app": "quiniela-pro",
  "concurso": 897,
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "cierre": "2026-11-27T13:00:00-06:00",
  "cierre_texto": "viernes 27 de noviembre de 2026 · 13:00 hora del centro de México",
  "costo_base_mxn": 10,
@@ -1030,28 +1030,28 @@
  "clima": {
   "1": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 37.8,
+   "l": 37
   },
   "2": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 50.8,
+   "l": 80
   },
   "3": {
    "d": "Techo retráctil",
-   "t": null,
-   "l": null
+   "t": 69.5,
+   "l": 1
   },
   "4": {
    "d": "Techo retráctil",
-   "t": null,
-   "l": null
+   "t": 46.2,
+   "l": 99
   },
   "5": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 76.8,
+   "l": 1
   },
   "6": {
    "d": "Domo (techo fijo)",
@@ -1065,33 +1065,33 @@
   },
   "8": {
    "d": "Techo retráctil",
-   "t": null,
-   "l": null
+   "t": 74.7,
+   "l": 0
   },
   "9": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 65.9,
+   "l": 61
   },
   "10": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 48.7,
+   "l": 100
   },
   "11": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 67.9,
+   "l": 31
   },
   "12": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 73.2,
+   "l": 0
   },
   "13": {
    "d": "No (abierto)",
-   "t": null,
-   "l": null
+   "t": 61.3,
+   "l": 2
   }
  },
  "estadios": {
