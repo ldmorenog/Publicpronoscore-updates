@@ -1,258 +1,281 @@
 {
  "app": "quiniela-pro",
- "concurso": 896,
- "actualizado": "2026-11-25",
- "cierre": "2026-11-21T13:00:00-06:00",
- "cierre_texto": "sábado 21 de noviembre de 2026 · 13:00 hora del centro de México",
+ "concurso": 897,
+ "actualizado": "2026-11-26",
+ "cierre": "2026-11-27T13:00:00-06:00",
+ "cierre_texto": "viernes 27 de noviembre de 2026 · 13:00 hora del centro de México",
  "costo_base_mxn": 10,
  "juego": "Protouch",
  "temporada": "NFL 2026",
  "casilleros": [
   {
    "casillero": 1,
-   "local": "PANTERAS",
-   "visita": "CUERVOS",
-   "momio_local": 1.7042,
-   "momio_visita": 2.2,
-   "e": -0.026881720430107527,
-   "f": 0.4,
-   "p": 0.0967741935483871,
-   "m": 0.12699144511039398,
-   "lv": -0.41833333333333333,
-   "total": 0.08533783221047311,
+   "local": "ACEREROS",
+   "visita": "BRONCOS",
+   "momio_local": 2.7,
+   "momio_visita": 1.4926,
+   "e": 0.4032258064516129,
+   "f": -0.5666666666666667,
+   "p": -0.2903225806451613,
+   "m": -0.2879835901349998,
+   "lv": 0.3983333333333333,
+   "total": -0.046181963972365056,
    "pick": "D",
-   "colegial": false
+   "colegial": false,
+   "fecha": "2026-11-27"
   },
   {
    "casillero": 2,
-   "local": "OSOS",
+   "local": "BENGALIES",
    "visita": "SANTOS",
-   "momio_local": 1.16,
-   "momio_visita": 5.55,
-   "e": 0.5591397849462365,
-   "f": 0.4,
-   "p": 0.7096774193548387,
-   "m": 0.65424739195231,
-   "lv": 0.08222222223333334,
-   "total": 0.5041367455635574,
+   "momio_local": 1.1613,
+   "momio_visita": 5.56,
+   "e": 0.1881720430107527,
+   "f": 0.39999999999999997,
+   "p": 0.4838709677419355,
+   "m": 0.6544418490470594,
+   "lv": 0.19166666666666668,
+   "total": 0.34090514275832134,
    "pick": "L",
-   "colegial": false
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 3,
-   "local": "VAQUEROS",
-   "visita": "TITANES",
-   "momio_local": 1.2632,
-   "momio_visita": 4.0,
-   "e": 0.1827956989247312,
-   "f": 0.2,
-   "p": 0.1935483870967742,
-   "m": 0.5199878400972792,
-   "lv": 0.08,
-   "total": 0.2094440668990777,
+   "local": "TEXANOS",
+   "visita": "CUERVOS",
+   "momio_local": 1.3106,
+   "momio_visita": 3.6,
+   "e": -0.10752688172043011,
+   "f": 0.6,
+   "p": 0.16129032258064516,
+   "m": 0.46621594102553654,
+   "lv": -0.02333333333333333,
+   "total": 0.19194868200412626,
    "pick": "L",
-   "colegial": false
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 4,
-   "local": "LEONES",
-   "visita": "BUCANEROS",
-   "momio_local": 1.2778,
-   "momio_visita": 3.85,
-   "e": -0.053763440860215055,
-   "f": 0.4666666666666667,
-   "p": 0.25806451612903225,
-   "m": 0.5016186278716018,
-   "lv": 0.025,
-   "total": 0.20074245070199256,
-   "pick": "L",
-   "colegial": false
+   "local": "POTROS",
+   "visita": "GIGANTES",
+   "momio_local": 3.69,
+   "momio_visita": 1.2985,
+   "e": -0.27419354838709675,
+   "f": -0.39999999999999997,
+   "p": -0.41935483870967744,
+   "m": -0.4794026260398917,
+   "lv": -0.08666666666666666,
+   "total": -0.3340064513973537,
+   "pick": "V",
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 5,
-   "local": "AGUILAS",
-   "visita": "ACEREROS",
-   "momio_local": 2.7,
-   "momio_visita": 1.4878,
-   "e": -0.42473118279569894,
-   "f": -0.3666666666666667,
-   "p": -0.5161290322580645,
-   "m": -0.28945985959214865,
-   "lv": -0.0733333333333333,
-   "total": -0.3781911723095299,
-   "pick": "V",
-   "colegial": false
+   "local": "DELFINES",
+   "visita": "JETS",
+   "momio_local": 2.69,
+   "momio_visita": 1.495,
+   "e": -0.08602150537634409,
+   "f": -0.26666666666666666,
+   "p": 0.03225806451612903,
+   "m": -0.2855436081242532,
+   "lv": -0.12222222222222223,
+   "total": -0.13508243727598568,
+   "pick": "D",
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 6,
-   "local": "CARGADORES",
-   "visita": "JETS",
-   "momio_local": 1.5405,
-   "momio_visita": 2.54,
-   "e": -0.06451612903225806,
-   "f": 0.4,
-   "p": -0.0967741935483871,
-   "m": 0.2449454723685823,
-   "lv": -0.2,
-   "total": 0.06939993122284983,
-   "pick": "D",
-   "colegial": false
+   "local": "VIKINGOS",
+   "visita": "HALCONES",
+   "momio_local": 1.3175,
+   "momio_visita": 3.56,
+   "e": 0.03225806451612903,
+   "f": 0.09999999999999998,
+   "p": 0.3870967741935484,
+   "m": 0.459764223475141,
+   "lv": 0.1527777777777778,
+   "total": 0.1649468804711856,
+   "pick": "L",
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 7,
-   "local": "GIGANTES",
-   "visita": "JAGUARES",
-   "momio_local": 3.15,
-   "momio_visita": 1.3774,
-   "e": 0.03225806451612903,
-   "f": -0.3666666666666667,
-   "p": -0.4838709677419355,
-   "m": -0.39152714582320974,
-   "lv": -0.16666666666666666,
-   "total": -0.2263879807584975,
+   "local": "CARGADORES",
+   "visita": "PATRIOTAS",
+   "momio_local": 1.8929,
+   "momio_visita": 1.9434,
+   "e": -0.26881720430107525,
+   "f": 0.0,
+   "p": -0.6451612903225806,
+   "m": 0.013163725464640405,
+   "lv": -0.06111111111111113,
+   "total": -0.21782960162574508,
    "pick": "V",
-   "colegial": false
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 8,
-   "local": "BRONCOS",
-   "visita": "RAIDERS",
-   "momio_local": 1.16,
-   "momio_visita": 5.55,
-   "e": -0.12365591397849462,
-   "f": 0.6333333333333333,
-   "p": 0.5806451612903226,
-   "m": 0.65424739195231,
-   "lv": 0.31,
-   "total": 0.32088226527570796,
-   "pick": "L",
-   "colegial": false
+   "local": "CARDENALES",
+   "visita": "COMMANDERS",
+   "momio_local": 3.63,
+   "momio_visita": 1.3067,
+   "e": -0.005376344086021506,
+   "f": -0.6333333333333334,
+   "p": 0.03225806451612903,
+   "m": -0.4706180241861972,
+   "lv": -0.4722222222222222,
+   "total": -0.2567068766570445,
+   "pick": "V",
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 9,
    "local": "49S",
-   "visita": "VIKINGOS",
-   "momio_local": 1.6173,
-   "momio_visita": 2.36,
-   "e": 0.26344086021505375,
-   "f": 0.2666666666666667,
-   "p": 0.25806451612903225,
-   "m": 0.18673471953335177,
-   "lv": 0.3111111111,
-   "total": 0.26120755844864685,
-   "pick": "L",
-   "colegial": false
+   "visita": "HALC. MAR.",
+   "momio_local": 1.5882,
+   "momio_visita": 2.43,
+   "e": 0.08064516129032258,
+   "f": 0.16666666666666674,
+   "p": 0.12903225806451613,
+   "m": 0.20949678960728685,
+   "lv": 0.275,
+   "total": 0.1436127755807849,
+   "pick": "D",
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 10,
-   "local": "COMMANDERS",
-   "visita": "BENGALIES",
-   "momio_local": 3.45,
-   "momio_visita": 1.3279,
-   "e": 0.005376344086021506,
-   "f": -0.3666666666666667,
-   "p": -0.45161290322580644,
-   "m": -0.4441491031624772,
-   "lv": -0.39111111111,
-   "total": -0.2574393691053004,
-   "pick": "V",
-   "colegial": false
+   "local": "BROWNS",
+   "visita": "RAIDERS",
+   "momio_local": 1.4464,
+   "momio_visita": 2.87,
+   "e": 0.10752688172043011,
+   "f": 0.3666666666666667,
+   "p": 0.12903225806451613,
+   "m": 0.32981188027059594,
+   "lv": 0.31111111111111106,
+   "total": 0.2217296642064325,
+   "pick": "L",
+   "colegial": false,
+   "fecha": "2026-11-29"
   },
   {
    "casillero": 11,
-   "local": "Tennessee",
-   "visita": "LSU",
-   "momio_local": 1.95,
-   "momio_visita": 1.87,
-   "e": -0.007500000000000018,
-   "f": 0.46666666666666673,
-   "p": 0.08029197080291971,
-   "m": -0.02094240837696331,
-   "lv": 0.5944444444444444,
-   "total": 0.1953121824350433,
-   "pick": "L",
-   "colegial": true
+   "local": "BUCANEROS",
+   "visita": "PANTERAS",
+   "momio_local": 1.6452,
+   "momio_visita": 2.31,
+   "e": 0.11827956989247312,
+   "f": -0.26666666666666666,
+   "p": 0.03225806451612903,
+   "m": 0.16808252427184467,
+   "lv": -0.26,
+   "total": -0.034485476041340446,
+   "pick": "D",
+   "colegial": false,
+   "fecha": "2026-11-30"
   },
   {
    "casillero": 12,
-   "local": "San José St",
-   "visita": "UNLV",
-   "momio_local": 3.1,
+   "local": "UCLA",
+   "visita": "USC",
+   "momio_local": 3.05,
    "momio_visita": 1.4,
-   "e": -0.09249999999999999,
-   "f": -0.26666666666666666,
-   "p": -0.22627737226277375,
-   "m": -0.3777777777777778,
-   "lv": -0.013333333333333332,
-   "total": -0.1813632603406326,
-   "pick": "V",
-   "colegial": true
+   "e": 0.24318181818181822,
+   "f": 0.06666666666666665,
+   "p": 0.10218978102189781,
+   "m": -0.3707865168539326,
+   "lv": 0.6611111111111112,
+   "total": 0.15667993972365335,
+   "pick": "L",
+   "colegial": true,
+   "fecha": "2026-11-28",
+   "momio_implicito": false
   },
   {
    "casillero": 13,
-   "local": "California",
-   "visita": "Stanford",
-   "momio_local": 2.1,
-   "momio_visita": 1.77,
-   "e": 0.047499999999999876,
-   "f": -0.6,
-   "p": -0.36496350364963503,
-   "m": -0.08527131782945738,
-   "lv": 0.8066666666666668,
-   "total": -0.13760118259491882,
+   "local": "TIGRES UANL",
+   "visita": "BORREGOS MTY",
+   "momio_local": 9.5,
+   "momio_visita": 6.3333,
+   "e": -0.25227272727272726,
+   "f": 0.1333333333333333,
+   "p": 0.0,
+   "m": 0.0,
+   "lv": 0.36761904761904757,
+   "total": -0.018056277056277055,
    "pick": "D",
-   "colegial": true
+   "colegial": true,
+   "fecha": "2026-11-27",
+   "momio_implicito": true
   }
  ],
  "stats": {
   "pxp": {
-   "49S": {
-    "pf": 281,
-    "pa": 196,
-    "pf_local": 156,
-    "pa_local": 91,
-    "pf_visita": 125,
-    "pa_visita": 105
+   "CARDENALES": {
+    "pf": 191,
+    "pa": 323,
+    "pf_local": 50,
+    "pa_local": 140,
+    "pf_visita": 141,
+    "pa_visita": 183
    },
-   "ACEREROS": {
-    "pf": 198,
-    "pa": 182,
-    "pf_local": 111,
-    "pa_local": 68,
-    "pf_visita": 87,
-    "pa_visita": 114
+   "HALCONES": {
+    "pf": 201,
+    "pa": 258,
+    "pf_local": 108,
+    "pa_local": 184,
+    "pf_visita": 93,
+    "pa_visita": 74
    },
-   "AGUILAS": {
-    "pf": 148,
-    "pa": 221,
-    "pf_local": 90,
-    "pa_local": 128,
-    "pf_visita": 58,
-    "pa_visita": 93
-   },
-   "BENGALIES": {
-    "pf": 278,
-    "pa": 193,
-    "pf_local": 131,
-    "pa_local": 103,
-    "pf_visita": 147,
-    "pa_visita": 90
+   "CUERVOS": {
+    "pf": 242,
+    "pa": 294,
+    "pf_local": 84,
+    "pa_local": 133,
+    "pf_visita": 158,
+    "pa_visita": 161
    },
    "BILLS": {
-    "pf": 287,
-    "pa": 199,
-    "pf_local": 150,
-    "pa_local": 92,
+    "pf": 313,
+    "pa": 208,
+    "pf_local": 176,
+    "pa_local": 101,
     "pf_visita": 137,
     "pa_visita": 107
    },
-   "BRONCOS": {
-    "pf": 198,
-    "pa": 186,
-    "pf_local": 95,
-    "pa_local": 77,
-    "pf_visita": 103,
-    "pa_visita": 109
+   "PANTERAS": {
+    "pf": 254,
+    "pa": 269,
+    "pf_local": 138,
+    "pa_local": 187,
+    "pf_visita": 116,
+    "pa_visita": 82
+   },
+   "OSOS": {
+    "pf": 262,
+    "pa": 197,
+    "pf_local": 131,
+    "pa_local": 89,
+    "pf_visita": 131,
+    "pa_visita": 108
+   },
+   "BENGALIES": {
+    "pf": 298,
+    "pa": 215,
+    "pf_local": 131,
+    "pa_local": 103,
+    "pf_visita": 167,
+    "pa_visita": 112
    },
    "BROWNS": {
     "pf": 188,
@@ -262,27 +285,75 @@
     "pf_visita": 100,
     "pa_visita": 144
    },
-   "BUCANEROS": {
-    "pf": 202,
-    "pa": 178,
-    "pf_local": 84,
-    "pa_local": 89,
-    "pf_visita": 118,
-    "pa_visita": 89
+   "VAQUEROS": {
+    "pf": 337,
+    "pa": 312,
+    "pf_local": 205,
+    "pa_local": 187,
+    "pf_visita": 132,
+    "pa_visita": 125
    },
-   "CARDENALES": {
-    "pf": 184,
-    "pa": 289,
-    "pf_local": 50,
-    "pa_local": 140,
-    "pf_visita": 134,
-    "pa_visita": 149
+   "BRONCOS": {
+    "pf": 236,
+    "pa": 210,
+    "pf_local": 133,
+    "pa_local": 101,
+    "pf_visita": 103,
+    "pa_visita": 109
+   },
+   "LEONES": {
+    "pf": 288,
+    "pa": 220,
+    "pf_local": 167,
+    "pa_local": 117,
+    "pf_visita": 121,
+    "pa_visita": 103
+   },
+   "EMPACADORES": {
+    "pf": 226,
+    "pa": 221,
+    "pf_local": 105,
+    "pa_local": 104,
+    "pf_visita": 121,
+    "pa_visita": 117
+   },
+   "TEXANOS": {
+    "pf": 259,
+    "pa": 222,
+    "pf_local": 114,
+    "pa_local": 120,
+    "pf_visita": 145,
+    "pa_visita": 102
+   },
+   "POTROS": {
+    "pf": 211,
+    "pa": 297,
+    "pf_local": 109,
+    "pa_local": 133,
+    "pf_visita": 102,
+    "pa_visita": 164
+   },
+   "JAGUARES": {
+    "pf": 287,
+    "pa": 167,
+    "pf_local": 161,
+    "pa_local": 74,
+    "pf_visita": 126,
+    "pa_visita": 93
+   },
+   "JEFES": {
+    "pf": 271,
+    "pa": 163,
+    "pf_local": 155,
+    "pa_local": 65,
+    "pf_visita": 116,
+    "pa_visita": 98
    },
    "CARGADORES": {
-    "pf": 144,
-    "pa": 239,
-    "pf_local": 67,
-    "pa_local": 119,
+    "pf": 168,
+    "pa": 266,
+    "pf_local": 91,
+    "pa_local": 146,
     "pf_visita": 77,
     "pa_visita": 120
    },
@@ -294,109 +365,21 @@
     "pf_visita": 139,
     "pa_visita": 90
    },
-   "COMMANDERS": {
-    "pf": 196,
-    "pa": 223,
-    "pf_local": 137,
-    "pa_local": 139,
-    "pf_visita": 59,
-    "pa_visita": 84
-   },
-   "CUERVOS": {
-    "pf": 209,
-    "pa": 259,
-    "pf_local": 84,
-    "pa_local": 133,
-    "pf_visita": 125,
-    "pa_visita": 126
-   },
    "DELFINES": {
-    "pf": 148,
-    "pa": 224,
+    "pf": 157,
+    "pa": 250,
     "pf_local": 62,
     "pa_local": 98,
-    "pf_visita": 86,
-    "pa_visita": 126
+    "pf_visita": 95,
+    "pa_visita": 152
    },
-   "EMPACADORES": {
-    "pf": 226,
-    "pa": 221,
-    "pf_local": 105,
-    "pa_local": 104,
-    "pf_visita": 121,
-    "pa_visita": 117
-   },
-   "GIGANTES": {
-    "pf": 203,
-    "pa": 196,
-    "pf_local": 103,
-    "pa_local": 85,
-    "pf_visita": 100,
-    "pa_visita": 111
-   },
-   "HALC. MAR.": {
-    "pf": 223,
-    "pa": 175,
-    "pf_local": 126,
-    "pa_local": 105,
-    "pf_visita": 97,
-    "pa_visita": 70
-   },
-   "HALCONES": {
-    "pf": 201,
-    "pa": 258,
-    "pf_local": 108,
-    "pa_local": 184,
-    "pf_visita": 93,
-    "pa_visita": 74
-   },
-   "JAGUARES": {
-    "pf": 269,
-    "pa": 144,
-    "pf_local": 161,
-    "pa_local": 74,
-    "pf_visita": 108,
-    "pa_visita": 70
-   },
-   "JEFES": {
-    "pf": 237,
-    "pa": 156,
-    "pf_local": 121,
-    "pa_local": 58,
+   "VIKINGOS": {
+    "pf": 186,
+    "pa": 161,
+    "pf_local": 70,
+    "pa_local": 42,
     "pf_visita": 116,
-    "pa_visita": 98
-   },
-   "JETS": {
-    "pf": 194,
-    "pa": 254,
-    "pf_local": 104,
-    "pa_local": 129,
-    "pf_visita": 90,
-    "pa_visita": 125
-   },
-   "LEONES": {
-    "pf": 257,
-    "pa": 199,
-    "pf_local": 136,
-    "pa_local": 96,
-    "pf_visita": 121,
-    "pa_visita": 103
-   },
-   "OSOS": {
-    "pf": 241,
-    "pa": 184,
-    "pf_local": 110,
-    "pa_local": 76,
-    "pf_visita": 131,
-    "pa_visita": 108
-   },
-   "PANTERAS": {
-    "pf": 219,
-    "pa": 236,
-    "pf_local": 103,
-    "pa_local": 154,
-    "pf_visita": 116,
-    "pa_visita": 82
+    "pa_visita": 119
    },
    "PATRIOTAS": {
     "pf": 221,
@@ -406,60 +389,92 @@
     "pf_visita": 103,
     "pa_visita": 158
    },
-   "POTROS": {
-    "pf": 208,
-    "pa": 271,
-    "pf_local": 109,
-    "pa_local": 133,
-    "pf_visita": 99,
-    "pa_visita": 138
-   },
-   "RAIDERS": {
-    "pf": 251,
-    "pa": 289,
-    "pf_local": 118,
-    "pa_local": 132,
-    "pf_visita": 133,
-    "pa_visita": 157
-   },
    "SANTOS": {
-    "pf": 202,
-    "pa": 236,
+    "pf": 215,
+    "pa": 257,
     "pf_local": 114,
     "pa_local": 161,
-    "pf_visita": 88,
-    "pa_visita": 75
+    "pf_visita": 101,
+    "pa_visita": 96
    },
-   "TEXANOS": {
-    "pf": 233,
-    "pa": 219,
-    "pf_local": 88,
-    "pa_local": 117,
-    "pf_visita": 145,
-    "pa_visita": 102
+   "GIGANTES": {
+    "pf": 226,
+    "pa": 214,
+    "pf_local": 126,
+    "pa_local": 103,
+    "pf_visita": 100,
+    "pa_visita": 111
+   },
+   "JETS": {
+    "pf": 221,
+    "pa": 278,
+    "pf_local": 104,
+    "pa_local": 129,
+    "pf_visita": 117,
+    "pa_visita": 149
+   },
+   "RAIDERS": {
+    "pf": 275,
+    "pa": 327,
+    "pf_local": 118,
+    "pa_local": 132,
+    "pf_visita": 157,
+    "pa_visita": 195
+   },
+   "AGUILAS": {
+    "pf": 167,
+    "pa": 237,
+    "pf_local": 109,
+    "pa_local": 144,
+    "pf_visita": 58,
+    "pa_visita": 93
+   },
+   "ACEREROS": {
+    "pf": 214,
+    "pa": 201,
+    "pf_local": 111,
+    "pa_local": 68,
+    "pf_visita": 103,
+    "pa_visita": 133
+   },
+   "49S": {
+    "pf": 316,
+    "pa": 206,
+    "pf_local": 191,
+    "pa_local": 101,
+    "pf_visita": 125,
+    "pa_visita": 105
+   },
+   "HALC. MAR.": {
+    "pf": 223,
+    "pa": 175,
+    "pf_local": 126,
+    "pa_local": 105,
+    "pf_visita": 97,
+    "pa_visita": 70
+   },
+   "BUCANEROS": {
+    "pf": 223,
+    "pa": 209,
+    "pf_local": 84,
+    "pa_local": 89,
+    "pf_visita": 139,
+    "pa_visita": 120
    },
    "TITANES": {
-    "pf": 167,
-    "pa": 239,
+    "pf": 197,
+    "pa": 290,
     "pf_local": 80,
     "pa_local": 140,
-    "pf_visita": 87,
-    "pa_visita": 99
+    "pf_visita": 117,
+    "pa_visita": 150
    },
-   "VAQUEROS": {
-    "pf": 286,
-    "pa": 282,
-    "pf_local": 154,
-    "pa_local": 157,
-    "pf_visita": 132,
-    "pa_visita": 125
-   },
-   "VIKINGOS": {
-    "pf": 176,
-    "pa": 126,
-    "pf_local": 70,
-    "pa_local": 42,
-    "pf_visita": 106,
+   "COMMANDERS": {
+    "pf": 218,
+    "pa": 243,
+    "pf_local": 159,
+    "pa_local": 159,
+    "pf_visita": 59,
     "pa_visita": 84
    }
   },
@@ -498,102 +513,6 @@
    "VIKINGOS": 10
   },
   "forma": {
-   "49S": [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    0,
-    "B",
-    1,
-    1
-   ],
-   "ACEREROS": [
-    1,
-    0,
-    1,
-    0,
-    1,
-    1,
-    1,
-    1,
-    "B",
-    0
-   ],
-   "AGUILAS": [
-    1,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    "B"
-   ],
-   "BENGALIES": [
-    1,
-    1,
-    0,
-    0,
-    1,
-    "B",
-    1,
-    1,
-    1,
-    1
-   ],
-   "BILLS": [
-    1,
-    1,
-    1,
-    0,
-    1,
-    1,
-    "B",
-    1,
-    1,
-    1
-   ],
-   "BRONCOS": [
-    0,
-    1,
-    1,
-    0,
-    1,
-    1,
-    1,
-    1,
-    1,
-    "B"
-   ],
-   "BROWNS": [
-    0,
-    1,
-    1,
-    1,
-    0,
-    1,
-    1,
-    0,
-    0,
-    1
-   ],
-   "BUCANEROS": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    1,
-    1,
-    0,
-    "B"
-   ],
    "CARDENALES": [
     1,
     0,
@@ -604,103 +523,8 @@
     0,
     1,
     0,
-    0
-   ],
-   "CARGADORES": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    "B",
-    0,
-    0,
-    1
-   ],
-   "CARNEROS": [
-    0,
-    1,
-    0,
-    1,
-    0,
-    0,
-    1,
-    1,
-    1,
-    1
-   ],
-   "COMMANDERS": [
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    "B",
-    1,
-    0,
-    1
-   ],
-   "CUERVOS": [
-    1,
-    0,
-    1,
-    1,
-    1,
-    0,
-    0,
-    0,
     0,
     0
-   ],
-   "DELFINES": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    "B",
-    1,
-    0,
-    0,
-    0
-   ],
-   "EMPACADORES": [
-    0,
-    1,
-    0,
-    1,
-    1,
-    1,
-    0,
-    1,
-    1,
-    0
-   ],
-   "GIGANTES": [
-    1,
-    0,
-    1,
-    1,
-    0,
-    0,
-    1,
-    "B",
-    1,
-    0
-   ],
-   "HALC. MAR.": [
-    1,
-    1,
-    0,
-    1,
-    0,
-    0,
-    1,
-    0,
-    1,
-    1
    ],
    "HALCONES": [
     0,
@@ -712,53 +536,45 @@
     1,
     0,
     0,
-    0
+    0,
+    "B"
    ],
-   "JAGUARES": [
+   "CUERVOS": [
     1,
     0,
     1,
     1,
     1,
     0,
-    "B",
-    1,
-    1,
-    1
-   ],
-   "JEFES": [
-    1,
-    1,
-    1,
-    1,
-    "B",
-    1,
-    0,
-    0,
-    1,
-    1
-   ],
-   "JETS": [
-    1,
-    0,
-    0,
-    0,
-    1,
     0,
     0,
     0,
     0,
     0
    ],
-   "LEONES": [
+   "BILLS": [
     1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    "B",
+    1,
+    1,
+    1,
+    1
+   ],
+   "PANTERAS": [
     0,
     1,
     0,
     1,
     "B",
     1,
-    1,
+    0,
+    0,
+    0,
     1,
     1
    ],
@@ -772,19 +588,190 @@
     1,
     1,
     1,
+    "B",
+    1
+   ],
+   "BENGALIES": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    "B",
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "BROWNS": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
     "B"
    ],
-   "PANTERAS": [
+   "VAQUEROS": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1
+   ],
+   "BRONCOS": [
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    "B",
+    1
+   ],
+   "LEONES": [
+    1,
     0,
     1,
     0,
     1,
     "B",
     1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "EMPACADORES": [
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    "B"
+   ],
+   "TEXANOS": [
     0,
     0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    "B",
+    1,
     0,
     1
+   ],
+   "POTROS": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "JAGUARES": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    "B",
+    1,
+    1,
+    1,
+    0
+   ],
+   "JEFES": [
+    1,
+    1,
+    1,
+    1,
+    "B",
+    1,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "CARGADORES": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    "B",
+    0,
+    0,
+    1,
+    0
+   ],
+   "CARNEROS": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    "B"
+   ],
+   "DELFINES": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    "B",
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "VIKINGOS": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    "B",
+    1,
+    0,
+    0,
+    1,
+    0
    ],
    "PATRIOTAS": [
     0,
@@ -796,12 +783,40 @@
     0,
     1,
     0,
-    0
+    0,
+    "B"
    ],
-   "POTROS": [
+   "SANTOS": [
+    0,
+    1,
+    0,
     0,
     0,
     1,
+    0,
+    "B",
+    1,
+    0,
+    0
+   ],
+   "GIGANTES": [
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    "B",
+    1,
+    0,
+    1
+   ],
+   "JETS": [
+    1,
+    0,
+    0,
+    0,
     1,
     0,
     0,
@@ -820,30 +835,72 @@
     0,
     1,
     0,
+    0,
     0
    ],
-   "SANTOS": [
-    0,
+   "AGUILAS": [
+    1,
     1,
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    0,
+    "B",
+    1
+   ],
+   "ACEREROS": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    "B",
+    0,
+    0
+   ],
+   "49S": [
+    1,
+    1,
+    1,
+    1,
+    1,
     1,
     0,
     "B",
     1,
-    0
+    1,
+    1
    ],
-   "TEXANOS": [
+   "HALC. MAR.": [
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    "B"
+   ],
+   "BUCANEROS": [
     0,
     0,
     0,
+    0,
+    1,
     0,
     1,
     1,
     0,
     "B",
-    1,
     0
    ],
    "TITANES": [
@@ -856,885 +913,120 @@
     0,
     0,
     "B",
+    0,
     0
    ],
-   "VAQUEROS": [
-    0,
-    1,
-    0,
-    1,
+   "COMMANDERS": [
     0,
     0,
     1,
     0,
-    1,
-    0
-   ],
-   "VIKINGOS": [
-    1,
-    1,
-    1,
-    1,
-    1,
+    0,
+    0,
     "B",
     1,
     0,
-    0,
+    1,
     1
    ]
   },
   "frec": {
    "1": {
     "L": 2,
-    "D": 1,
-    "V": 1,
-    "n": 4
-   },
-   "2": {
-    "L": 1,
     "D": 2,
     "V": 1,
-    "n": 4
+    "n": 5
+   },
+   "2": {
+    "L": 2,
+    "D": 2,
+    "V": 1,
+    "n": 5
    },
    "3": {
-    "L": 0,
+    "L": 1,
     "D": 3,
     "V": 1,
-    "n": 4
+    "n": 5
    },
    "4": {
-    "L": 1,
+    "L": 2,
     "D": 1,
     "V": 2,
-    "n": 4
+    "n": 5
    },
    "5": {
     "L": 1,
-    "D": 3,
+    "D": 4,
     "V": 0,
-    "n": 4
+    "n": 5
    },
    "6": {
     "L": 0,
-    "D": 3,
+    "D": 4,
     "V": 1,
-    "n": 4
+    "n": 5
    },
    "7": {
     "L": 1,
-    "D": 1,
+    "D": 2,
     "V": 2,
-    "n": 4
+    "n": 5
    },
    "8": {
-    "L": 1,
+    "L": 2,
     "D": 1,
     "V": 2,
-    "n": 4
+    "n": 5
    },
    "9": {
-    "L": 2,
+    "L": 3,
     "D": 0,
     "V": 2,
-    "n": 4
+    "n": 5
    },
    "10": {
     "L": 0,
-    "D": 2,
+    "D": 3,
     "V": 2,
-    "n": 4
+    "n": 5
    },
    "11": {
-    "L": 1,
+    "L": 2,
     "D": 2,
     "V": 1,
-    "n": 4
+    "n": 5
    },
    "12": {
     "L": 3,
-    "D": 1,
+    "D": 2,
     "V": 0,
-    "n": 4
+    "n": 5
    },
    "13": {
     "L": 0,
     "D": 1,
-    "V": 3,
-    "n": 4
+    "V": 4,
+    "n": 5
    }
   },
   "oficial": [
-   "L",
-   "V",
-   "D",
-   "V",
-   "D",
-   "D",
-   "V",
-   "V",
-   "V",
-   "V",
    "D",
    "L",
-   "D"
+   "L",
+   "L",
+   "D",
+   "D",
+   "D",
+   "L",
+   "L",
+   "D",
+   "L",
+   "D",
+   "V"
   ]
  },
- "lesiones": {
-  "49S": [
-   [
-    "Mike Evans",
-    "WR",
-    "Achilles",
-    "Questionable"
-   ],
-   [
-    "Renardo Green",
-    "CB",
-    "Back",
-    "Questionable"
-   ],
-   [
-    "Christian Kirk",
-    "WR",
-    "Knee",
-    "IR"
-   ],
-   [
-    "Ricky Pearsall",
-    "WR",
-    "Knee",
-    "IR"
-   ],
-   [
-    "Nate Hobbs",
-    "CB",
-    "Groin",
-    "IR"
-   ]
-  ],
-  "ACEREROS": [
-   [
-    "Mason McCormick",
-    "G",
-    "Ankle",
-    "Out"
-   ],
-   [
-    "DeShon Elliott",
-    "S",
-    "Knee",
-    "Questionable"
-   ],
-   [
-    "Michael Pittman Jr.",
-    "WR",
-    "Foot",
-    "IR"
-   ],
-   [
-    "Roman Wilson",
-    "WR",
-    "Finger",
-    "IR"
-   ]
-  ],
-  "AGUILAS": [
-   [
-    "Britain Covey",
-    "WR",
-    "Knee",
-    "Questionable"
-   ],
-   [
-    "DeVonta Smith",
-    "WR",
-    "Hamstring",
-    "Questionable"
-   ],
-   [
-    "Dontayvion Wicks",
-    "WR",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Jihaad Campbell",
-    "LB",
-    "Hamstring",
-    "Questionable"
-   ],
-   [
-    "Jonathan Jones",
-    "CB",
-    "Hamstring",
-    "Questionable"
-   ],
-   [
-    "Michael Carter II",
-    "CB",
-    "Abdomen",
-    "Questionable"
-   ],
-   [
-    "Zack Baun",
-    "LB",
-    "Back",
-    "Questionable"
-   ],
-   [
-    "Jalen Hurts",
-    "QB",
-    "Calf",
-    "IR"
-   ]
-  ],
-  "BENGALIES": [
-   [
-    "Dalton Risner",
-    "G",
-    "Knee",
-    "Questionable"
-   ],
-   [
-    "Kyle Dugger",
-    "S",
-    "Quadriceps",
-    "Questionable"
-   ],
-   [
-    "Myles Hinton",
-    "OT",
-    "Illness",
-    "Questionable"
-   ],
-   [
-    "Oren Burks",
-    "LB",
-    "Groin",
-    "Questionable"
-   ],
-   [
-    "Andrei Iosivas",
-    "WR",
-    "Thumb",
-    "IR"
-   ],
-   [
-    "Erick All Jr.",
-    "TE",
-    "Knee (ACL)",
-    "IR"
-   ]
-  ],
-  "BRONCOS": [
-   [
-    "Brandon Jones",
-    "S",
-    "Hamstring",
-    "Questionable"
-   ],
-   [
-    "Jaylen Waddle",
-    "WR",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Kris Abrams-Draine",
-    "CB",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Riley Moss",
-    "CB",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Talanoa Hufanga",
-    "S",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "RJ Harvey",
-    "RB",
-    "Knee",
-    "IR"
-   ]
-  ],
-  "BUCANEROS": [
-   [
-    "Yaya Diaby",
-    "LB",
-    "Knee",
-    "Doubtful"
-   ],
-   [
-    "Antoine Winfield Jr.",
-    "S",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Baker Mayfield",
-    "QB",
-    "Foot",
-    "Questionable"
-   ],
-   [
-    "Jalen McMillan",
-    "WR",
-    "Knee",
-    "IR"
-   ]
-  ],
-  "CARGADORES": [
-   [
-    "Brenen Thompson",
-    "WR",
-    "Hamstring",
-    "Questionable"
-   ],
-   [
-    "Isas Waxter",
-    "CB",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Justin Eboigbe",
-    "DT",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Kendall Williamson",
-    "S",
-    "Calf",
-    "Questionable"
-   ],
-   [
-    "Ladd McConkey",
-    "WR",
-    "Back",
-    "Questionable"
-   ],
-   [
-    "Rodney Shelley",
-    "CB",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Derwin James Jr.",
-    "S",
-    "Hamstring",
-    "IR"
-   ],
-   [
-    "Trey Pipkins III",
-    "OT",
-    "Knee",
-    "IR"
-   ]
-  ],
-  "COMMANDERS": [
-   [
-    "Colson Yankoff",
-    "TE",
-    "Knee",
-    "Questionable"
-   ],
-   [
-    "Lucas Patrick",
-    "G",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Terry McLaurin",
-    "WR",
-    "Knee",
-    "IR"
-   ],
-   [
-    "Laremy Tunsil",
-    "OT",
-    "Triceps",
-    "IR"
-   ],
-   [
-    "Daron Payne",
-    "DT",
-    "Foot",
-    "IR"
-   ],
-   [
-    "Dyami Brown",
-    "WR",
-    "Calf",
-    "IR"
-   ],
-   [
-    "Jacory Croskey-Merritt",
-    "RB",
-    "Groin",
-    "IR"
-   ]
-  ],
-  "CUERVOS": [
-   [
-    "Jaylinn Hawkins",
-    "S",
-    "Knee",
-    "Questionable"
-   ],
-   [
-    "Nnamdi Madubuike",
-    "DT",
-    "Hamstring",
-    "Questionable"
-   ],
-   [
-    "Olaivavega Ioane",
-    "G",
-    "Shoulder",
-    "Questionable"
-   ],
-   [
-    "Lamar Jackson",
-    "QB",
-    "Thumb",
-    "IR"
-   ],
-   [
-    "Tyler Huntley",
-    "QB",
-    "Toe",
-    "IR"
-   ]
-  ],
-  "GIGANTES": [
-   [
-    "Jason Pinnock",
-    "S",
-    "Back",
-    "Questionable"
-   ],
-   [
-    "Malik Harrison",
-    "LB",
-    "Groin",
-    "Questionable"
-   ],
-   [
-    "Jaxson Dart",
-    "QB",
-    "Knee",
-    "IR"
-   ],
-   [
-    "Brian Burns",
-    "LB",
-    "Knee (ACL)",
-    "IR"
-   ],
-   [
-    "Tremaine Edmunds",
-    "LB",
-    "Chest",
-    "IR"
-   ],
-   [
-    "Tyrone Tracy Jr.",
-    "RB",
-    "Hamstring",
-    "IR"
-   ]
-  ],
-  "JAGUARES": [
-   [
-    "Robert Hainsey",
-    "C",
-    "Knee",
-    "Out"
-   ],
-   [
-    "Danny Striggow",
-    "DE",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Anton Harrison",
-    "OT",
-    "Knee (ACL)",
-    "IR"
-   ],
-   [
-    "Eric Murray",
-    "S",
-    "Elbow",
-    "IR"
-   ]
-  ],
-  "JETS": [
-   [
-    "Dylan Parham",
-    "G",
-    "Knee",
-    "Questionable"
-   ],
-   [
-    "Geno Smith",
-    "QB",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Isaiah Williams",
-    "WR",
-    "Ribs",
-    "Questionable"
-   ],
-   [
-    "Jarvis Brownlee Jr.",
-    "CB",
-    "Illness",
-    "Questionable"
-   ],
-   [
-    "Omar Cooper Jr.",
-    "WR",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Trevin Wallace",
-    "LB",
-    "Groin",
-    "Questionable"
-   ],
-   [
-    "T'Vondre Sweat",
-    "DT",
-    "Knee",
-    "IR"
-   ]
-  ],
-  "LEONES": [
-   [
-    "Aidan Hutchinson",
-    "DE",
-    "Knee (ACL)",
-    "Out"
-   ],
-   [
-    "Cade Mays",
-    "C",
-    "Ankle",
-    "Doubtful"
-   ],
-   [
-    "D.J. Reed",
-    "CB",
-    "Hip",
-    "Questionable"
-   ],
-   [
-    "Jack Campbell",
-    "LB",
-    "Neck",
-    "IR"
-   ],
-   [
-    "Isiah Pacheco",
-    "RB",
-    "Back",
-    "IR"
-   ]
-  ],
-  "OSOS": [
-   [
-    "Kyle Monangai",
-    "RB",
-    "Toe",
-    "Questionable"
-   ],
-   [
-    "Kyler Gordon",
-    "CB",
-    "Shoulder",
-    "Questionable"
-   ],
-   [
-    "Malik Muhammad II",
-    "CB",
-    "Toe",
-    "Questionable"
-   ],
-   [
-    "Tyrique Stevenson Sr.",
-    "CB",
-    "Hand",
-    "Questionable"
-   ],
-   [
-    "Cole Kmet",
-    "TE",
-    "Knee",
-    "IR"
-   ],
-   [
-    "Coby Bryant",
-    "S",
-    "Knee",
-    "IR"
-   ],
-   [
-    "Dayo Odeyingbo",
-    "DE",
-    "Quadriceps",
-    "IR"
-   ]
-  ],
-  "PANTERAS": [
-   [
-    "Bobby Okereke",
-    "LB",
-    "Foot",
-    "Questionable"
-   ],
-   [
-    "Will Lee III",
-    "CB",
-    "Hamstring",
-    "Questionable"
-   ],
-   [
-    "Jaycee Horn",
-    "CB",
-    "Quadriceps",
-    "IR"
-   ],
-   [
-    "Jonathon Brooks",
-    "RB",
-    "Groin",
-    "IR"
-   ],
-   [
-    "Mike Jackson",
-    "CB",
-    "Groin",
-    "IR"
-   ],
-   [
-    "Brady Christensen",
-    "G",
-    "Hamstring",
-    "IR"
-   ],
-   [
-    "Taylor Moton",
-    "OT",
-    "Fibula",
-    "IR"
-   ]
-  ],
-  "RAIDERS": [
-   [
-    "Brock Bowers",
-    "TE",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Dont'e Thornton Jr.",
-    "WR",
-    "Back",
-    "Questionable"
-   ],
-   [
-    "Kwity Paye",
-    "DE",
-    "Neck",
-    "Questionable"
-   ],
-   [
-    "Thomas Booker IV",
-    "DT",
-    "Ankle",
-    "Questionable"
-   ]
-  ],
-  "SANTOS": [
-   [
-    "Asim Richards",
-    "OT",
-    "Knee",
-    "Out"
-   ],
-   [
-    "Erik McCoy",
-    "C",
-    "Biceps",
-    "Doubtful"
-   ],
-   [
-    "Taliese Fuaga",
-    "OT",
-    "Knee",
-    "Doubtful"
-   ],
-   [
-    "CJ Donaldson",
-    "RB",
-    "Shoulder",
-    "Questionable"
-   ],
-   [
-    "Pete Werner",
-    "LB",
-    "Hamstring",
-    "Questionable"
-   ]
-  ],
-  "TITANES": [
-   [
-    "Anthony Hill Jr.",
-    "LB",
-    "Neck",
-    "Questionable"
-   ],
-   [
-    "Carnell Tate",
-    "WR",
-    "Shoulder",
-    "Questionable"
-   ],
-   [
-    "Cody Barton",
-    "LB",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Tony Adams",
-    "S",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Peter Skoronski",
-    "G",
-    "Hamstring",
-    "IR"
-   ],
-   [
-    "Wan'Dale Robinson",
-    "WR",
-    "Ankle",
-    "IR"
-   ]
-  ],
-  "VAQUEROS": [
-   [
-    "DaRon Bland",
-    "CB",
-    "Ankle",
-    "Out"
-   ],
-   [
-    "Jake Ferguson",
-    "TE",
-    "Knee",
-    "Out"
-   ],
-   [
-    "Tyler Booker",
-    "G",
-    "Ankle",
-    "Out"
-   ],
-   [
-    "Donovan Ezeiruaku",
-    "LB",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Jonathan Mingo",
-    "WR",
-    "Ankle",
-    "Questionable"
-   ],
-   [
-    "Juanyeh Thomas",
-    "S",
-    "Ribs",
-    "Questionable"
-   ],
-   [
-    "P.J. Locke",
-    "S",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Tyler Goodson",
-    "RB",
-    "Knee (ACL/MCL)",
-    "IR"
-   ]
-  ],
-  "VIKINGOS": [
-   [
-    "Jordan Addison",
-    "WR",
-    "Thumb",
-    "Out"
-   ],
-   [
-    "Kyler Murray",
-    "QB",
-    "Hamstring",
-    "Out"
-   ],
-   [
-    "Andrew Van Ginkel",
-    "LB",
-    "Quadriceps",
-    "Questionable"
-   ],
-   [
-    "Blake Cashman",
-    "LB",
-    "Concussion",
-    "Questionable"
-   ],
-   [
-    "Jauan Jennings",
-    "WR",
-    "Calf",
-    "Questionable"
-   ],
-   [
-    "T.J. Hockenson",
-    "TE",
-    "Wrist",
-    "Questionable"
-   ],
-   [
-    "Donovan Jackson",
-    "G",
-    "Knee",
-    "IR"
-   ]
-  ]
- },
+ "lesiones": {},
  "clima": {
   "1": {
    "d": "No (abierto)",
@@ -1752,7 +1044,7 @@
    "l": null
   },
   "4": {
-   "d": "Domo (techo fijo)",
+   "d": "Techo retráctil",
    "t": null,
    "l": null
   },
@@ -1767,12 +1059,12 @@
    "l": null
   },
   "7": {
-   "d": "No (abierto)",
+   "d": "Domo (techo fijo)",
    "t": null,
    "l": null
   },
   "8": {
-   "d": "No (abierto)",
+   "d": "Techo retráctil",
    "t": null,
    "l": null
   },
@@ -1804,117 +1096,85 @@
  },
  "estadios": {
   "1": {
-   "nombre": "Bank of America Stadium",
-   "ciudad": "Charlotte, NC",
+   "nombre": "Acrisure Stadium",
+   "ciudad": "Pittsburgh, PA",
    "pais": "EE. UU.",
    "tipo": "Abierto"
   },
   "2": {
-   "nombre": "Soldier Field",
-   "ciudad": "Chicago, IL",
+   "nombre": "Paycor Stadium",
+   "ciudad": "Cincinnati, OH",
    "pais": "EE. UU.",
    "tipo": "Abierto"
   },
   "3": {
-   "nombre": "AT&T Stadium",
-   "ciudad": "Arlington, TX",
+   "nombre": "NRG Stadium",
+   "ciudad": "Houston, TX",
    "pais": "EE. UU.",
    "tipo": "Techo retráctil"
   },
   "4": {
-   "nombre": "Ford Field",
-   "ciudad": "Detroit, MI",
+   "nombre": "Lucas Oil Stadium",
+   "ciudad": "Indianapolis, IN",
    "pais": "EE. UU.",
-   "tipo": "Domo (techo fijo)"
+   "tipo": "Techo retráctil"
   },
   "5": {
-   "nombre": "Lincoln Financial Field",
-   "ciudad": "Filadelfia, PA",
+   "nombre": "Hard Rock Stadium",
+   "ciudad": "Miami Gardens, FL",
    "pais": "EE. UU.",
    "tipo": "Abierto"
   },
   "6": {
+   "nombre": "U.S. Bank Stadium",
+   "ciudad": "Minneapolis, MN",
+   "pais": "EE. UU.",
+   "tipo": "Domo (techo fijo)"
+  },
+  "7": {
    "nombre": "SoFi Stadium",
    "ciudad": "Inglewood, CA",
    "pais": "EE. UU.",
    "tipo": "Domo (techo fijo)"
   },
-  "7": {
-   "nombre": "MetLife Stadium",
-   "ciudad": "East Rutherford, NJ",
-   "pais": "EE. UU.",
-   "tipo": "Abierto"
-  },
   "8": {
-   "nombre": "Empower Field at Mile High",
-   "ciudad": "Denver, CO",
+   "nombre": "State Farm Stadium",
+   "ciudad": "Glendale, AZ",
    "pais": "EE. UU.",
-   "tipo": "Abierto"
+   "tipo": "Techo retráctil"
   },
   "9": {
-   "nombre": "Estadio Banorte",
-   "ciudad": "Ciudad de México",
-   "pais": "México",
+   "nombre": "Levi's Stadium",
+   "ciudad": "Santa Clara, CA",
+   "pais": "EE. UU.",
    "tipo": "Abierto"
   },
   "10": {
-   "nombre": "Northwest Stadium",
-   "ciudad": "Landover, MD",
+   "nombre": "Huntington Bank Field",
+   "ciudad": "Cleveland, OH",
    "pais": "EE. UU.",
    "tipo": "Abierto"
   },
   "11": {
-   "nombre": "Neyland Stadium",
-   "ciudad": "Knoxville, TN",
+   "nombre": "Raymond James Stadium",
+   "ciudad": "Tampa, FL",
    "pais": "EE. UU.",
    "tipo": "Abierto"
   },
   "12": {
-   "nombre": "CEFCU Stadium",
-   "ciudad": "San José, CA",
+   "nombre": "Rose Bowl",
+   "ciudad": "Pasadena, CA",
    "pais": "EE. UU.",
    "tipo": "Abierto"
   },
   "13": {
-   "nombre": "California Memorial Stadium",
-   "ciudad": "Berkeley, CA",
-   "pais": "EE. UU.",
+   "nombre": "Estadio Gaspar Mass",
+   "ciudad": "San Nicolás de los Garza",
+   "pais": "NL",
    "tipo": "Abierto"
   }
  },
  "pasados": {
-  "895": {
-   "picks": [
-    "L",
-    "V",
-    "V",
-    "L",
-    "D",
-    "D",
-    "V",
-    "V",
-    "V",
-    "V",
-    "V",
-    "D",
-    "D"
-   ],
-   "oficial": [
-    "L",
-    "V",
-    "D",
-    "V",
-    "D",
-    "D",
-    "V",
-    "V",
-    "V",
-    "V",
-    "D",
-    "L",
-    "D"
-   ]
-  },
   "896": {
    "picks": [
     "D",
@@ -1945,6 +1205,38 @@
     "L",
     "D",
     "V"
+   ]
+  },
+  "895": {
+   "picks": [
+    "L",
+    "V",
+    "V",
+    "L",
+    "D",
+    "D",
+    "V",
+    "V",
+    "V",
+    "V",
+    "V",
+    "D",
+    "D"
+   ],
+   "oficial": [
+    "L",
+    "V",
+    "D",
+    "V",
+    "D",
+    "D",
+    "V",
+    "V",
+    "V",
+    "V",
+    "D",
+    "L",
+    "D"
    ]
   }
  },
@@ -3230,8 +2522,8 @@
   "nota_algoritmo": "Equipo que anota primero: signo del Total del modelo (Total>0 Local, Total<0 Visitante, Total==0 Local). Cuarto: P(Q) proporcional a O(Q) x D(Q), O=distribucion ofensiva del anotador, D=distribucion defensiva del rival; normalizar Q1-Q4 y tomar el maximo. Si un equipo tiene menos de 5 juegos con dato, usar la distribucion de la liga."
  },
  "protouch_inicial": {
-  "local": "CARGADORES",
-  "visita": "JETS"
+  "local": "ACEREROS",
+  "visita": "BRONCOS"
  },
- "primer_partido": "2026-11-21T14:30:00-06:00"
+ "primer_partido": "2026-11-27T14:00:00-06:00"
 }
