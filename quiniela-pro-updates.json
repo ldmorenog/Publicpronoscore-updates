@@ -1,7 +1,7 @@
 {
  "app": "quiniela-pro",
  "concurso": 897,
- "actualizado": "2026-11-27",
+ "actualizado": "2026-11-28",
  "cierre": "2026-11-27T13:00:00-06:00",
  "cierre_texto": "viernes 27 de noviembre de 2026 · 13:00 hora del centro de México",
  "costo_base_mxn": 10,
@@ -1026,7 +1026,904 @@
    "V"
   ]
  },
- "lesiones": {},
+ "lesiones": {
+  "49S": [
+   [
+    "Brock Purdy",
+    "QB",
+    "Ankle",
+    "Out"
+   ],
+   [
+    "Jordan Watkins",
+    "WR",
+    "Groin",
+    "Out"
+   ],
+   [
+    "Dre Greenlaw",
+    "LB",
+    "Neck",
+    "Questionable"
+   ],
+   [
+    "Mike Evans",
+    "WR",
+    "Achilles",
+    "Questionable"
+   ],
+   [
+    "Siran Neal",
+    "S",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Upton Stout",
+    "CB",
+    "Shoulder",
+    "Questionable"
+   ],
+   [
+    "Austen Pleasants",
+    "OT",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Christian Kirk",
+    "WR",
+    "Knee",
+    "IR"
+   ],
+   [
+    "Ricky Pearsall",
+    "WR",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "ACEREROS": [
+   [
+    "Alex Highsmith",
+    "LB",
+    "Ankle",
+    "Out"
+   ],
+   [
+    "Cole Holcomb",
+    "LB",
+    "Heel",
+    "Out"
+   ],
+   [
+    "Brandin Echols",
+    "CB",
+    "Quadriceps",
+    "Questionable"
+   ],
+   [
+    "Jack Sawyer",
+    "OLB",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Ben Skowronek",
+    "WR",
+    "Calf",
+    "IR"
+   ],
+   [
+    "Gennings Dunker",
+    "G",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "BENGALIES": [
+   [
+    "Dalton Risner",
+    "G",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Tee Higgins",
+    "WR",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "Andrei Iosivas",
+    "WR",
+    "Thumb",
+    "IR"
+   ],
+   [
+    "Jalen Davis",
+    "CB",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Oren Burks",
+    "LB",
+    "Groin",
+    "IR"
+   ],
+   [
+    "Erick All Jr.",
+    "TE",
+    "Knee (ACL)",
+    "IR"
+   ]
+  ],
+  "BRONCOS": [
+   [
+    "Taylor Rapp",
+    "S",
+    "Quadriceps",
+    "Out"
+   ],
+   [
+    "Caleb Lohner",
+    "TE",
+    "Foot",
+    "IR"
+   ],
+   [
+    "Jonah Elliss",
+    "OLB",
+    "Ankle",
+    "IR"
+   ],
+   [
+    "Sai'vion Jones",
+    "DE",
+    "Hamstring",
+    "IR"
+   ]
+  ],
+  "BROWNS": [
+   [
+    "Derek Barnett",
+    "DE",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Austin Barber",
+    "OT",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Denzel Boston",
+    "WR",
+    "Quadriceps",
+    "Questionable"
+   ],
+   [
+    "Raheim Sanders",
+    "RB",
+    "Hip",
+    "IR"
+   ]
+  ],
+  "BUCANEROS": [
+   [
+    "Antoine Winfield Jr.",
+    "S",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Benjamin Morrison",
+    "CB",
+    "Hamstring",
+    "Questionable"
+   ],
+   [
+    "Elijah Simmons",
+    "DT",
+    "Concussion",
+    "Questionable"
+   ],
+   [
+    "SirVocea Dennis",
+    "LB",
+    "Back",
+    "Questionable"
+   ],
+   [
+    "Tez Johnson",
+    "WR",
+    "Illness",
+    "Questionable"
+   ],
+   [
+    "Christian Rozeboom",
+    "LB",
+    "Finger",
+    "IR"
+   ],
+   [
+    "Jalen McMillan",
+    "WR",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "CARDENALES": [
+   [
+    "Carson Beck",
+    "QB",
+    "Back",
+    "Out"
+   ],
+   [
+    "Jon Gaines II",
+    "G",
+    "Ankle",
+    "Out"
+   ],
+   [
+    "Hunter Long",
+    "TE",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Karson Sharar",
+    "LB",
+    "Groin",
+    "Questionable"
+   ],
+   [
+    "Cody Simon",
+    "LB",
+    "Calf",
+    "Questionable"
+   ],
+   [
+    "Jeremiyah Love",
+    "RB",
+    "Ankle",
+    "IR"
+   ],
+   [
+    "Zachary Carter",
+    "DT",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "CARGADORES": [
+   [
+    "Daiyan Henley",
+    "LB",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Justin Herbert",
+    "QB",
+    "Concussion",
+    "Out"
+   ],
+   [
+    "Keaton Mitchell",
+    "RB",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Akheem Mesidor",
+    "LB",
+    "Ankle",
+    "Doubtful"
+   ],
+   [
+    "Brenen Thompson",
+    "WR",
+    "Hamstring",
+    "Doubtful"
+   ],
+   [
+    "Dalvin Tomlinson",
+    "DT",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "David Njoku",
+    "TE",
+    "Shoulder",
+    "Questionable"
+   ],
+   [
+    "Kendall Williamson",
+    "S",
+    "Calf",
+    "Questionable"
+   ],
+   [
+    "Tarheeb Still",
+    "CB",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Tuli Tuipulotu",
+    "LB",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Deane Leonard",
+    "CB",
+    "Groin",
+    "IR"
+   ],
+   [
+    "Derwin James Jr.",
+    "S",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Rodney Shelley",
+    "CB",
+    "Ankle",
+    "IR"
+   ]
+  ],
+  "COMMANDERS": [
+   [
+    "Amik Robertson",
+    "CB",
+    "Ankle",
+    "Out"
+   ],
+   [
+    "Laremy Tunsil",
+    "OT",
+    "Triceps",
+    "IR"
+   ],
+   [
+    "Terry McLaurin",
+    "WR",
+    "Knee",
+    "IR"
+   ],
+   [
+    "Daron Payne",
+    "DT",
+    "Foot",
+    "IR"
+   ],
+   [
+    "Dyami Brown",
+    "WR",
+    "Calf",
+    "IR"
+   ]
+  ],
+  "CUERVOS": [
+   [
+    "Jaylinn Hawkins",
+    "S",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Nnamdi Madubuike",
+    "DT",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Olaivavega Ioane",
+    "G",
+    "Hand",
+    "Out"
+   ],
+   [
+    "Lamar Jackson",
+    "QB",
+    "Thumb",
+    "IR"
+   ],
+   [
+    "Tyler Huntley",
+    "QB",
+    "Toe",
+    "IR"
+   ]
+  ],
+  "DELFINES": [
+   [
+    "Bradley Pinion",
+    "P",
+    "Groin",
+    "Out"
+   ],
+   [
+    "Jared Wayne",
+    "WR",
+    "Quadriceps",
+    "Out"
+   ],
+   [
+    "JuJu Brents",
+    "CB",
+    "Neck",
+    "Out"
+   ],
+   [
+    "Malik Willis",
+    "QB",
+    "Groin",
+    "IR"
+   ],
+   [
+    "Ronnie Harrison Jr.",
+    "LB",
+    "Hamstring",
+    "IR"
+   ]
+  ],
+  "GIGANTES": [
+   [
+    "Shelby Harris",
+    "DT",
+    "Illness",
+    "Out"
+   ],
+   [
+    "Greg Newsome II",
+    "CB",
+    "Ankle",
+    "IR"
+   ],
+   [
+    "Jaxson Dart",
+    "QB",
+    "Knee",
+    "IR"
+   ],
+   [
+    "Brian Burns",
+    "LB",
+    "Knee (ACL)",
+    "IR"
+   ],
+   [
+    "Tremaine Edmunds",
+    "LB",
+    "Chest",
+    "IR"
+   ],
+   [
+    "Tyrone Tracy Jr.",
+    "RB",
+    "Hamstring",
+    "IR"
+   ]
+  ],
+  "HALC. MAR.": [
+   [
+    "Abraham Lucas",
+    "OT",
+    "Ankle",
+    "Out"
+   ],
+   [
+    "Jarran Reed",
+    "DT",
+    "Toe",
+    "Out"
+   ],
+   [
+    "Quenton Nelson",
+    "G",
+    "Knee",
+    "Out"
+   ],
+   [
+    "George Holani",
+    "RB",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "HALCONES": [
+   [
+    "Billy Bowman Jr.",
+    "CB",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "DeMarcco Hellams",
+    "S",
+    "Foot",
+    "Out"
+   ],
+   [
+    "Jahan Dotson",
+    "WR",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Matthew Bergeron",
+    "G",
+    "Back",
+    "Out"
+   ],
+   [
+    "Zachariah Branch",
+    "WR",
+    "Hamstring",
+    "Out"
+   ]
+  ],
+  "JETS": [
+   [
+    "Omar Cooper Jr.",
+    "WR",
+    "Ankle",
+    "Out"
+   ],
+   [
+    "Harrison Phillips",
+    "DT",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "David Onyemata",
+    "DT",
+    "Abdomen",
+    "IR"
+   ],
+   [
+    "T'Vondre Sweat",
+    "DT",
+    "Knee",
+    "IR"
+   ]
+  ],
+  "PANTERAS": [
+   [
+    "Bobby Okereke",
+    "LB",
+    "Foot",
+    "Questionable"
+   ],
+   [
+    "Darren Waller",
+    "TE",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Feleipe Franks",
+    "TE",
+    "Wrist",
+    "Questionable"
+   ],
+   [
+    "Jackson Kuwatch",
+    "LB",
+    "Illness",
+    "Questionable"
+   ],
+   [
+    "Jaelan Phillips",
+    "LB",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Mitchell Evans",
+    "TE",
+    "Achilles",
+    "Questionable"
+   ],
+   [
+    "Patrick Jones II",
+    "LB",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Tetairoa McMillan",
+    "WR",
+    "Foot",
+    "Questionable"
+   ],
+   [
+    "Tommy Tremble",
+    "TE",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Jaycee Horn",
+    "CB",
+    "Quadriceps",
+    "IR"
+   ],
+   [
+    "Jonathon Brooks",
+    "RB",
+    "Groin",
+    "IR"
+   ],
+   [
+    "Brady Christensen",
+    "G",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Taylor Moton",
+    "OT",
+    "Fibula",
+    "IR"
+   ]
+  ],
+  "PATRIOTAS": [
+   [
+    "A.J. Brown",
+    "WR",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Carlton Davis III",
+    "CB",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Drake Maye",
+    "QB",
+    "Fibula",
+    "Out"
+   ],
+   [
+    "Christian Barmore",
+    "DT",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Reggie Gilliam",
+    "FB",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Walter Rouse",
+    "OT",
+    "Concussion",
+    "Questionable"
+   ],
+   [
+    "Alijah Vera-Tucker",
+    "G",
+    "Hamstring",
+    "IR"
+   ],
+   [
+    "Romeo Doubs",
+    "WR",
+    "Shoulder",
+    "IR"
+   ]
+  ],
+  "POTROS": [
+   [
+    "Charvarius Ward",
+    "CB",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Jalen Travis",
+    "OT",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Jerry Tillery",
+    "DT",
+    "Calf",
+    "Out"
+   ],
+   [
+    "Seth McGowan",
+    "RB",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Will Mallory",
+    "TE",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Drew Ogletree",
+    "TE",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Alec Pierce",
+    "WR",
+    "Heel",
+    "IR"
+   ],
+   [
+    "Caden Curry",
+    "LB",
+    "Wrist",
+    "IR"
+   ],
+   [
+    "Cam Taylor-Britt",
+    "CB",
+    "Groin",
+    "IR"
+   ]
+  ],
+  "RAIDERS": [
+   [
+    "Adam Butler",
+    "DT",
+    "Concussion",
+    "Out"
+   ],
+   [
+    "Jackson Powers-Johnson",
+    "G",
+    "Achilles",
+    "Out"
+   ],
+   [
+    "Tim Keenan III",
+    "DT",
+    "Knee",
+    "Out"
+   ],
+   [
+    "Tonka Hemingway",
+    "DT",
+    "Stinger",
+    "Out"
+   ],
+   [
+    "Brock Bowers",
+    "TE",
+    "Ankle",
+    "Questionable"
+   ],
+   [
+    "Darrell Luter Jr.",
+    "CB",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "JJ Pegues",
+    "DT",
+    "Elbow",
+    "Questionable"
+   ],
+   [
+    "Patrick Johnson",
+    "DE",
+    "Stinger",
+    "IR"
+   ]
+  ],
+  "SANTOS": [
+   [
+    "Juwan Johnson",
+    "TE",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Asim Richards",
+    "OT",
+    "Knee",
+    "Questionable"
+   ],
+   [
+    "Noah Fant",
+    "TE",
+    "Calf",
+    "Questionable"
+   ],
+   [
+    "Taliese Fuaga",
+    "OT",
+    "Knee",
+    "Questionable"
+   ]
+  ],
+  "TEXANOS": [
+   [
+    "Brevin Jordan",
+    "TE",
+    "Foot",
+    "Out"
+   ],
+   [
+    "Danielle Hunter",
+    "DE",
+    "Hamstring",
+    "Out"
+   ],
+   [
+    "Kayshon Boutte",
+    "WR",
+    "Hip",
+    "Out"
+   ],
+   [
+    "Keylan Rutledge",
+    "G",
+    "Neck",
+    "Out"
+   ],
+   [
+    "Jake Hummel",
+    "LB",
+    "Abdomen",
+    "Questionable"
+   ]
+  ],
+  "VIKINGOS": [
+   [
+    "Christian Darrisaw",
+    "OT",
+    "Shoulder",
+    "Out"
+   ],
+   [
+    "Isaiah Rodgers",
+    "CB",
+    "Quadriceps",
+    "Out"
+   ],
+   [
+    "Jordan Addison",
+    "WR",
+    "Thumb",
+    "Out"
+   ],
+   [
+    "Harrison Smith",
+    "S",
+    "Thigh",
+    "Questionable"
+   ],
+   [
+    "Donovan Jackson",
+    "G",
+    "Knee",
+    "IR"
+   ]
+  ]
+ },
  "clima": {
   "1": {
    "d": "No (abierto)",
